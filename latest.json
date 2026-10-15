@@ -1,14 +1,16 @@
 {
   "schema": "edm_lite_update.v1",
   "channel": "beta",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "min_version": "1.0.0",
-  "released": "2026-10-15T03:14:48",
-  "notes": "Update pipeline probe (beta)",
+  "released": "2026-10-15T03:53:18",
+  "notes": "- Update footer now shows this changelog on hover\n- One-click updates work for standard (non-admin) users\n- Clear message when a release needs the full installer\n- Smaller footer text and faster, safer rebuilds",
   "patch": {
-    "url": "EDMLite-patch-1.0.1.zip",
-    "size": 431,
-    "sha256": "b47c0d8229d2e5fe7dfd8f216326039be91454373cacfb55efa92534d82d48e7"
+    "url": "EDMLite-patch-1.0.2.zip",
+    "size": 164,
+    "sha256": "f2f42f3a56f1e0fc1f07dff39d4439931c5c51dd6c9f4d0d0bd6816917371d29"
   },
-  "signature": "X0sBnmKeJ3PlSf9Fg34+fb2/q0vttI0KuG1QvMRnJzQ+X4ZyfnMWIidqYZnjRr4fZs5dMgjCTB6L1vR1o5ZHAg=="
+  "title": "Update tooltip and hardening",
+  "installer_url": "https://github.com/visualzbyvj/edm-lite-updates/releases",
+  "signature": "dr+E1JtFnSS9Wzv1tUqBGT8aciT3VQfwNZCFeWo8ZxGi65EYcsqaWPhBYxRYC75OIUoxwNmey9mE2R7EtZxLCQ=="
 }
