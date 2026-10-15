@@ -1,16 +1,15 @@
 {
   "schema": "edm_lite_update.v1",
   "channel": "beta",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "min_version": "1.0.0",
-  "released": "2026-10-15T04:01:21",
-  "notes": "- End-to-end update test release (adds a marker file, tweaks the verify script)\n- No functional changes",
+  "released": "2026-10-15T04:17:30",
+  "notes": "- Daemon recycle test (python change)",
   "patch": {
-    "url": "EDMLite-patch-1.0.3.zip",
-    "size": 2720,
-    "sha256": "ed35a60e499ba035b71d20e651fa31266d71c682feab382f26550cdb5c7b626b"
+    "url": "EDMLite-patch-1.0.4.zip",
+    "size": 548,
+    "sha256": "7ef8a934267020bd379907e0783b15e7dbd21603bc02534757531c5501780ef4"
   },
-  "title": "E2E update test",
-  "installer_url": "https://github.com/visualzbyvj/edm-lite-updates/releases",
-  "signature": "bSJHq0V9+y00vLfwewR7fmXRwq9+1Cd1cdhkfJoVAa+xdadjVbq4r2mI0jDjGr+QNeA9ufbLUaaL2sXa5D1DAA=="
+  "title": "Daemon recycle test",
+  "signature": "VZ4lXCzhn6qNQoxSJkMtSmTYw9KazrMlD+5uNxEn8l2iOVp+yIJY4tqwAD5WXo4itiubJce3O99sZ7PH1+BDCg=="
 }
