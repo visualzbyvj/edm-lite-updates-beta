@@ -1,0 +1,14 @@
+{
+  "schema": "edm_lite_update.v1",
+  "channel": "beta",
+  "version": "1.0.1",
+  "min_version": "1.0.0",
+  "released": "2026-10-15T03:14:48",
+  "notes": "Update pipeline probe (beta)",
+  "patch": {
+    "url": "EDMLite-patch-1.0.1.zip",
+    "size": 431,
+    "sha256": "b47c0d8229d2e5fe7dfd8f216326039be91454373cacfb55efa92534d82d48e7"
+  },
+  "signature": "X0sBnmKeJ3PlSf9Fg34+fb2/q0vttI0KuG1QvMRnJzQ+X4ZyfnMWIidqYZnjRr4fZs5dMgjCTB6L1vR1o5ZHAg=="
+}
