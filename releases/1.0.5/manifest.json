@@ -1,0 +1,3127 @@
+{
+ "files": {
+  "AGENTS.md": {
+   "sha256": "58aaf7864219ebc26a0cef394ad2b75dea2734d9c12b96bc6d0c8f934934937a",
+   "size": 3068
+  },
+  "autocue_studio/app.js": {
+   "sha256": "ee51f88935ffb7d10c5ec90fac45ae931eaea0d897adb031d78474a3e592c618",
+   "size": 41438
+  },
+  "autocue_studio/index.html": {
+   "sha256": "cc63f4bb1c63c1b61b82a82dac1e51b407bbd7ff3a13ac5c52a003d892ae8c81",
+   "size": 7259
+  },
+  "autocue_studio/styles.css": {
+   "sha256": "beb5b6316c6c31bfb8de3ff088ec56853022984af8b5f0377425595a0a5da98a",
+   "size": 9845
+  },
+  "autocue_studio/waveform.js": {
+   "sha256": "131f02f8e102e816ee0ca06e98993ddb3718e96814fcd0fd8811e280efccfe24",
+   "size": 18387
+  },
+  "css/lite.css": {
+   "sha256": "97ba72402b8a49575225af9fd5fb5c6187cff3adbb4153d2c7a2b0ac2daf50e6",
+   "size": 488
+  },
+  "css/styles.css": {
+   "sha256": "3d5f9597d5c82d59105dcd3101de18c44c05d42b12201de30380d8613558806d",
+   "size": 98706
+  },
+  "ercp-wi-bridge.js": {
+   "sha256": "5d07b9172109e44890aa630c52eb30fc7db4770d19c8b7778df9fd0cb3a33960",
+   "size": 8059
+  },
+  "index.html": {
+   "sha256": "6a17cd04fad316d29b25662709e14ba545bdf93dd161eda8de0040f8d65a6f90",
+   "size": 105306
+  },
+  "js/analyze-workflow.js": {
+   "sha256": "94ec9e38ff4afcfd8e465303aaf979f8f9ee2512a1e4f4fb23c41c492a8237fe",
+   "size": 6360
+  },
+  "js/beat-rail.js": {
+   "sha256": "b0f1e7570a6c492a74dc6484822f06d485868977d58c909e5541bb150d4fb99a",
+   "size": 12195
+  },
+  "js/gig-renderer.js": {
+   "sha256": "3d7b0ba58129323a38b9b7979e5b4726f5892a2115c1d4b7d601935b65ed2955",
+   "size": 51400
+  },
+  "js/modules/activity-console.js": {
+   "sha256": "0741e0ad51594fbb84bc555b3922dd94c7142cb2277f052348cf478402ee6bff",
+   "size": 8263
+  },
+  "js/modules/activity.js": {
+   "sha256": "698ad1aaf28dc94df52e04ebdefd21cf0ec3fadb3dfbf52ae32cbe21d5e570e4",
+   "size": 64447
+  },
+  "js/modules/advisor.js": {
+   "sha256": "decda9a1da25cab78560532b131e76e14b6b127b0f3db322d13c0845e0b1a9a7",
+   "size": 7138
+  },
+  "js/modules/angle-map-ui.js": {
+   "sha256": "264682276a2755b25edd1d5dbd96bd83fb06b74a583a3e67481758222a3c0397",
+   "size": 18039
+  },
+  "js/modules/config-hydration.js": {
+   "sha256": "8438cf832675ee73394259ab66b112bce2ce5c4c0bd1c9b1b7b078115715a8f5",
+   "size": 1659
+  },
+  "js/modules/cut-inspector.js": {
+   "sha256": "50fd922819d6a4f231cef23dea00b92548598b584b9d1bfa7cd2842e113821c3",
+   "size": 13105
+  },
+  "js/modules/delivery-pipeline.js": {
+   "sha256": "961278aeaece4de2686d169ab495bedc8f859a849d98f4abe1cdafbb653a7bfd",
+   "size": 17487
+  },
+  "js/modules/dom-registry.js": {
+   "sha256": "4b01e99d5310db7e627073269b2918e1f4e9d007158333a84a28dd99d2e5a174",
+   "size": 10673
+  },
+  "js/modules/gig-analytics.js": {
+   "sha256": "8ecdbede132eb0578aa6fd6b015a6948a9b76c5577f3c9436b934e8660c49394",
+   "size": 22581
+  },
+  "js/modules/gig-stages.js": {
+   "sha256": "2e0783cb5c736a13becd6893b3b7835549abd7c56fd1fc055590398d1dee68de",
+   "size": 2301
+  },
+  "js/modules/inspector-layout.js": {
+   "sha256": "5dfa01c9afa08133351985654424015d9a4874d9e8ac5815ed1226600c90ab3b",
+   "size": 13722
+  },
+  "js/modules/live-sync-ui.js": {
+   "sha256": "66f757f83fb6708facc55e4afc4a67edeb984f67692c051a2eaa33378e4e5021",
+   "size": 3871
+  },
+  "js/modules/live-taps.js": {
+   "sha256": "59e7f3b91b05a8b1c7fbf02adb6be923e0b777a67d707b90be5ebb4270f3ce32",
+   "size": 11216
+  },
+  "js/modules/notes.js": {
+   "sha256": "04d2829e5e67c08e907fd479728738ca0d235557be10ef926338716dc6f08942",
+   "size": 9833
+  },
+  "js/modules/pass-controls.js": {
+   "sha256": "7f6f2cd7213466dfb2e967474eba777f4728c24776a258592d45e194740c1c3e",
+   "size": 8248
+  },
+  "js/modules/pass-poll.js": {
+   "sha256": "a9baaed755af2dac426ace27a36cbe3c7cffc3006fb414426442f2cc18e8a6ad",
+   "size": 8721
+  },
+  "js/modules/perform-mode.js": {
+   "sha256": "a83eec7f7fa0636fc8c36a549b0366f1aa6a5b35fd13c21fd1eed5435edf3abd",
+   "size": 9830
+  },
+  "js/modules/review-queue.js": {
+   "sha256": "451667becab45212ad1143ff1c840ff71e813d4f1b3a822f26e8d4f95f3af705",
+   "size": 17294
+  },
+  "js/modules/setlist-math.js": {
+   "sha256": "84792ae5391789b5ba64debc506724bd08bf966deec436d62a056375fc9c824f",
+   "size": 3135
+  },
+  "js/modules/setlist-panel.js": {
+   "sha256": "dc57fef5cf5c9d256ae3b3a41429580d408daea36a4a11def6133f90e3c53147",
+   "size": 18806
+  },
+  "js/modules/setlist-profile.js": {
+   "sha256": "960bbc4551b636249211b812409de1c9d9efe779a7ffa26ef0d7471805a6d4b9",
+   "size": 13331
+  },
+  "js/modules/setlist-sync.js": {
+   "sha256": "306d51b47b206810ff60ce08f108f8d4644f483be86dba89e11c0c762bdfed78",
+   "size": 10075
+  },
+  "js/modules/shared-state.js": {
+   "sha256": "1b9a385489d8c2c1755a57cfdca1760d9814135ff6259094d7aab0f22662523f",
+   "size": 412
+  },
+  "js/modules/song-id.js": {
+   "sha256": "7b869c39d0420082fe30b7279916f43e2b851cd68b4e07697481649596f991d5",
+   "size": 36853
+  },
+  "js/modules/suite-doctor.js": {
+   "sha256": "3defccceeb876a26de9703049c20762140861304881916949aa24b4981bc7cb8",
+   "size": 6348
+  },
+  "js/modules/taste-profiles.js": {
+   "sha256": "2d58d61b0e377ae3ca44f86e0487c3d80dffaa49c64a2d6bbc26eccbd18705ec",
+   "size": 15355
+  },
+  "js/pass-client.js": {
+   "sha256": "32b74e3206435e06bdbd12a80ebe4afd7e394476b219df78816c4c225f81e6b9",
+   "size": 30829
+  },
+  "js/poll-scheduler.js": {
+   "sha256": "04c36fd0d3f82c27f8b652d2076a71383673bc0e55105e51d8ca468f495d1785",
+   "size": 5964
+  },
+  "js/reframe-renderer.js": {
+   "sha256": "20ad09e74feb813de173887ef790857a2424d1dc679dbc6563d6fa1a457e2785",
+   "size": 55083
+  },
+  "js/render-renderer.js": {
+   "sha256": "d827357b7f2b5d4f53835b8abf5b15d787af9549864130d3c7a052164bf4ba1d",
+   "size": 66877
+  },
+  "js/renderer.js": {
+   "sha256": "c4c7e834eacd21ae12478fa910d46cf4887137a0733ce23356ee065b1f11deed",
+   "size": 344255
+  },
+  "js/ui-accordion.js": {
+   "sha256": "b934c5b4f3178c13fd94ce8cdd45b796ab6a4f03338d5c2198ff14a283191594",
+   "size": 3352
+  },
+  "js/ui-core.js": {
+   "sha256": "6b74322b907d6ab35f5a1821e0bb1db5997769b4ac047ac77506bca31b779d55",
+   "size": 3502
+  },
+  "js/ui-state.js": {
+   "sha256": "da14f8f3f1e0c6d17b1e44874b952f11b5a7006a1728bd663fd371a232d780a9",
+   "size": 6820
+  },
+  "main.js": {
+   "sha256": "db8f88921322dad04c6143e08df8d84e459bae1705abed4d3b22c82eb2a0c94b",
+   "size": 380241
+  },
+  "main/daemon-lifecycle.js": {
+   "sha256": "751c4429e50a79541e94ccb893fec7e462074a89eddf18dec0fe3dd85326e44e",
+   "size": 17952
+  },
+  "main/notes.js": {
+   "sha256": "eb726b48e0f2d12a03e0a943c05bf0550ba6d7118faccac17607e10421bcea45",
+   "size": 12602
+  },
+  "main/panel-health.js": {
+   "sha256": "4beadb2329bfa950da2423edeaaede728dbd8eb89d6df5c138b257752b742445",
+   "size": 16793
+  },
+  "main/setlist-cache-lock.js": {
+   "sha256": "1df501ac47e3df70d2895324a53e86eff1d9fed557008a2f818592af1ac3fb75",
+   "size": 8763
+  },
+  "main/setlist-cache.js": {
+   "sha256": "066ddfa9036d9594ec76c1b8dffb3d7cb4014e0fa50cf9707ccbe471386f9661",
+   "size": 7173
+  },
+  "main/watchers.js": {
+   "sha256": "8a015a02b411cfc9901c28eb8e5562d833cfd869e17cf188eb5b494ffd9ae447",
+   "size": 1777
+  },
+  "main/wedge-watchdog-worker.js": {
+   "sha256": "88b38fbcf488fb050d23c25c4844912a7dd655eae974862154f1a48e9404af55",
+   "size": 4133
+  },
+  "main/wedge-watchdog.js": {
+   "sha256": "4c3dc7580d0e1fd1fb9718c273b3f83f0ebc0022a1687ab50f761e68a34a63ab",
+   "size": 4345
+  },
+  "main/window.js": {
+   "sha256": "a0e3ffa98f0a72c47bca413b363d23c3c176ca52280145e03c806ec20e1eb517",
+   "size": 11934
+  },
+  "manifest.xml": {
+   "sha256": "2a793ece958fbaab8678bd9c58cceb7401aad5d1104bdf2b25cd0a8fa79217aa",
+   "size": 350
+  },
+  "package.json": {
+   "sha256": "9c23f6a0615efc7266b38d7b34f09b9bc09edb37d63282253ac81e71ab0b0521",
+   "size": 252
+  },
+  "pass-bridge.js": {
+   "sha256": "77c79a3c4282f355633bdeff140fe98f2d7cf817e3ce4a2407d0fccbc51b8ac1",
+   "size": 14276
+  },
+  "preload.js": {
+   "sha256": "7edd47ec70b79030c57a8afe39fd369e0806f414bb0a50bbcadb4ae783cb8acf",
+   "size": 25589
+  },
+  "refine-message.js": {
+   "sha256": "2356c11be56a9d5a16ab3ba3363efbf7710513803cf53836b7ebfd1ddcfc5c83",
+   "size": 1724
+  },
+  "suite/config/.gitignore": {
+   "sha256": "faec327ebd464d4578beaac08039973a52bc126d76a3e09ce1391c0e06af3c79",
+   "size": 113
+  },
+  "suite/config/config.json": {
+   "sha256": "5aeaedb119cf2c76ef08d354acd787ef81743aa00405cffa4ea609bc0ba22953",
+   "size": 20276
+  },
+  "suite/config/syncaila_ui_map.json": {
+   "sha256": "8b16588b50303389ca6bc93cf817debcdeb1e3c0f261cc5dc804998212dee045",
+   "size": 3330
+  },
+  "suite/config/update_pubkey.txt": {
+   "sha256": "d6d7460bffa39798a477c87bd943313d1d3dc9af3cb608df79a811d624e61a58",
+   "size": 46
+  },
+  "suite/data/structure_confidence/autocue_teach_queue.json": {
+   "sha256": "5bc28ce00b869ce485c5316a38178010c13e9da4f6764e9ddb16c107fd57a026",
+   "size": 2106
+  },
+  "suite/data/structure_confidence/cue_phrase_baseline.json": {
+   "sha256": "134c7a703953505b5643b76129ea168f2708dde302ff7ece47e0447dd9f680cb",
+   "size": 4486
+  },
+  "suite/data/structure_confidence/cue_recipe.json": {
+   "sha256": "3b0603e2baf946899ecd27e8d0f9fb2db304573528285f48dad526f3e3b81d49",
+   "size": 723
+  },
+  "suite/data/structure_confidence/cue_recipe_bass_house.json": {
+   "sha256": "7da2503160296cadaa84fa0acbde9e0a7670921008a836b9b1f467fc67f0ebca",
+   "size": 723
+  },
+  "suite/data/structure_confidence/cue_recipe_dubstep.json": {
+   "sha256": "3f13a2e0f766d224fd2760b5c4667247601081cd9e8dde12f784b23cfc291b69",
+   "size": 725
+  },
+  "suite/data/structure_confidence/cue_recipe_index.json": {
+   "sha256": "ebe404b133675b10ad6f4f5e30ba66a29748ef4cde2fd22afc6272aa2abf62e9",
+   "size": 316
+  },
+  "suite/data/structure_confidence/cue_training_pool.jsonl": {
+   "sha256": "6315c49df12334f48d0c8538caf1c6bb9420e05092f222d9a6584ab7ee0f38f4",
+   "size": 15461
+  },
+  "suite/data/structure_confidence/cut_plan_baseline.json": {
+   "sha256": "de72ca8ccdaa36e93f5cf1671134f140fdea96d6b2e027e8fcae8dfd1ae01f03",
+   "size": 574
+  },
+  "suite/data/structure_confidence/phase_calibration.json": {
+   "sha256": "ba6b8da0894522476f87e4a4e6e4e2649d07d52dd037da006564e29599bd74e5",
+   "size": 5612
+  },
+  "suite/data/structure_confidence/phrase_cut_review_set.v1.json": {
+   "sha256": "e9a1aedd50ad9611e962d0dca652e7c5485ace3d2698c43049c83b3be67e52a4",
+   "size": 990
+  },
+  "suite/edm_gig_pipeline/AGENTS.md": {
+   "sha256": "1c19070529dc848779d3eeb9b6e5e2811442be647ff465e6f9267f3fd6ba7ff7",
+   "size": 2125
+  },
+  "suite/edm_gig_pipeline/__init__.py": {
+   "sha256": "28982802b13716b42a16ed6c76480a74417ea4df620f0c15fd05224c0be6d107",
+   "size": 161
+  },
+  "suite/edm_gig_pipeline/ahk_audio_nudge_bridge.py": {
+   "sha256": "c8d2d91f33aad9b60cfca974b0d46b7894a008953b355a21715588f6e780c66a",
+   "size": 5252
+  },
+  "suite/edm_gig_pipeline/audio.py": {
+   "sha256": "64dfb17995c874b40b191777c8c4146fe35ebbaeedc82f66be61330b660b9249",
+   "size": 9539
+  },
+  "suite/edm_gig_pipeline/audio_align.py": {
+   "sha256": "31ca368a5e38938c13beb74a250321e9d5bdd0645137414d3f5e561c33cd1cf3",
+   "size": 7766
+  },
+  "suite/edm_gig_pipeline/audio_features.py": {
+   "sha256": "5eb7e36630d399e7e4ba9663be82d8e0249a60e06cf0e64857564dc22e7daae2",
+   "size": 10170
+  },
+  "suite/edm_gig_pipeline/auto_prewarm.py": {
+   "sha256": "0e331b9b2b5778b251f0fab9ce4e6e63a204cc9a5d9fb7ae6a3d80e1bc905d6f",
+   "size": 18505
+  },
+  "suite/edm_gig_pipeline/coarse_sync.py": {
+   "sha256": "acb30e3ff32a3261a04e3444b4e7a007edacfb52ac177fbe8a7b8c1e7582cd69",
+   "size": 44504
+  },
+  "suite/edm_gig_pipeline/drift_detect.py": {
+   "sha256": "f188739600ded76b28d20a5ee92b2c04a5137a866e6ed2e0975bc89526aad560",
+   "size": 5121
+  },
+  "suite/edm_gig_pipeline/edm_markers.py": {
+   "sha256": "e14640d3f3d0bbaa085fd155808864d28f36a1e0cd34d7215ed8c6d4f38fb10b",
+   "size": 5945
+  },
+  "suite/edm_gig_pipeline/engine_sync_handoff.py": {
+   "sha256": "02bbe13a792a2bb517129fee547a6ef09608c23e4948fcc4e63544658d2140ca",
+   "size": 1780
+  },
+  "suite/edm_gig_pipeline/ercp_apply.py": {
+   "sha256": "4e60c0a3682f51648a34d8531609289747bda73797a272686f36b38ece6b617b",
+   "size": 4679
+  },
+  "suite/edm_gig_pipeline/evidence.py": {
+   "sha256": "d37fbdd24f305fcb92a3223115da4f8d849161b950466d17fbef970ddf17f75d",
+   "size": 6569
+  },
+  "suite/edm_gig_pipeline/ingest.py": {
+   "sha256": "ee963748e47132ee3f86cc033c1e300e42226e7fe2e846b261028bfee6774a25",
+   "size": 9970
+  },
+  "suite/edm_gig_pipeline/manifest.py": {
+   "sha256": "04c878e7f0867220cb8ef18e5d64d1f113633dc91cf1d10729378683f52df859",
+   "size": 6284
+  },
+  "suite/edm_gig_pipeline/openmontage_artifacts.py": {
+   "sha256": "dc4cabc45c6b34097345d3deb0310ebf27237a16906c38a85e0d2d7b11cff1c9",
+   "size": 9650
+  },
+  "suite/edm_gig_pipeline/orchestrator.py": {
+   "sha256": "3b783e85ad5f25f204dd58493e8d0878103b9b64f9c35fd67af6daf1dfcb14c5",
+   "size": 13572
+  },
+  "suite/edm_gig_pipeline/otio_compile.py": {
+   "sha256": "98e71fb5232264654beff1e443693907967a84f26ac0a9605f120cb4c579d20e",
+   "size": 13855
+  },
+  "suite/edm_gig_pipeline/own_engine/__init__.py": {
+   "sha256": "11af43288333278401bbbf8c54ee88460774d1d356371c808f3283eabd0d47c1",
+   "size": 458
+  },
+  "suite/edm_gig_pipeline/own_engine/consensus.py": {
+   "sha256": "209d9322f2cd6ea62f7e918b844b67105409d814a2ca5450ff08a19f5a282520",
+   "size": 24744
+  },
+  "suite/edm_gig_pipeline/own_engine/engine.py": {
+   "sha256": "6f35915535d45dcad2e189f04ee77d8e00b303c692923e517caf00c6e5a40afd",
+   "size": 26714
+  },
+  "suite/edm_gig_pipeline/own_engine/envelopes.py": {
+   "sha256": "563f366abacbed0922161187c203a687ef3aca7aa9e1d014ccf1ed2f6b99568a",
+   "size": 7733
+  },
+  "suite/edm_gig_pipeline/own_engine/match.py": {
+   "sha256": "07edffefae67267dcf962b876252d11a863f7bd945bb1dcdf5ea4cd59f9c81b8",
+   "size": 63681
+  },
+  "suite/edm_gig_pipeline/patch_headless_logging.py": {
+   "sha256": "d8e26b594241640f3872ae869b2d775ddcbe3460e934ef3ab581f818d1299030",
+   "size": 6984
+  },
+  "suite/edm_gig_pipeline/paths.py": {
+   "sha256": "52d028a07a5c83c2d856a20e0564f548c1a6b94f924a8fec48e5eb5891ffd2f9",
+   "size": 2016
+  },
+  "suite/edm_gig_pipeline/preflight.py": {
+   "sha256": "6d4c652ac587053808037b50bf63a72c473c7ee5c62ae4a65363e2292423e67b",
+   "size": 6791
+  },
+  "suite/edm_gig_pipeline/progress.py": {
+   "sha256": "841515eff4330f3455be1301da56025cc6cf0179a09ee2a682b44bccb89cafc8",
+   "size": 11522
+  },
+  "suite/edm_gig_pipeline/refine_angles.py": {
+   "sha256": "dd1c2fd234889eb081310a9dab5561fd674a63d5817ce021af9cce99886f5256",
+   "size": 24019
+  },
+  "suite/edm_gig_pipeline/refine_apply.py": {
+   "sha256": "5e099c018a407a947d053ce42a0441bad80d22c74b96a3c23c09ea921f0d6e66",
+   "size": 50157
+  },
+  "suite/edm_gig_pipeline/refine_measure.py": {
+   "sha256": "9a95d69654c2ace043cb82ebab15e534de5cb515c640db19a0e14cab3d872114",
+   "size": 75982
+  },
+  "suite/edm_gig_pipeline/refine_scout.py": {
+   "sha256": "9ffc14daa7f69d6c1ddbeab4e434dae1d9be6c39026737bfd6ffb1ad71354659",
+   "size": 20529
+  },
+  "suite/edm_gig_pipeline/refine_types.py": {
+   "sha256": "70acf9b5c56a3a22f81b446d906c3d11c068b467481e84defe81a77e8d5730e1",
+   "size": 5915
+  },
+  "suite/edm_gig_pipeline/resolve_ambience.py": {
+   "sha256": "58daa461ccc05c12122f870114e10c1dacb541fecd647fbfcc49f35aadda5967",
+   "size": 2213
+  },
+  "suite/edm_gig_pipeline/resolve_build.py": {
+   "sha256": "9a90126ff162ce7708b1ea6e27aa87dbcc1093d962acc1eca6daf84a35a7a051",
+   "size": 5766
+  },
+  "suite/edm_gig_pipeline/resolve_direct_audio.py": {
+   "sha256": "0ab073a658d2c794b17e8fe1f611bc4d1d79b814a7111608f8342baaf76e9d53",
+   "size": 5449
+  },
+  "suite/edm_gig_pipeline/resolve_export.py": {
+   "sha256": "3771c7f468fc3e6d1f00292f51f4d0a6fbdcff9dbbd381cb1d4a99c7fd8a52d6",
+   "size": 14008
+  },
+  "suite/edm_gig_pipeline/resolve_import.py": {
+   "sha256": "9b31e7428397d05a2ea29d9c61b4e68675786dbb6a87580736f94c0b868a633b",
+   "size": 30966
+  },
+  "suite/edm_gig_pipeline/resolve_layout.py": {
+   "sha256": "6c8ffb9b12af695e50282f73803a3386ac1eccb17e4746d2ef9097cf8e612bb8",
+   "size": 8004
+  },
+  "suite/edm_gig_pipeline/resolve_save.py": {
+   "sha256": "5c2965d9b7e89d705b2990bbae213351e0e1533433d7a5b4f7bb2cf530b8b34c",
+   "size": 1800
+  },
+  "suite/edm_gig_pipeline/resolve_surface.py": {
+   "sha256": "1d8da08bf8693eaafdeb79f0661dbc6d301d921cfa5cfa6f65ca56cfdf2a0f87",
+   "size": 7496
+  },
+  "suite/edm_gig_pipeline/sync_completion.py": {
+   "sha256": "5255d9b4a7e9196282a0942811347f39d803369a4c134d461f8111152d68b873",
+   "size": 9520
+  },
+  "suite/edm_gig_pipeline/sync_freshness.py": {
+   "sha256": "a46b95aabc8a11401a22e07f7e4ba2440c67d0b2a303ca6d09524b1249151259",
+   "size": 5842
+  },
+  "suite/edm_gig_pipeline/sync_guards.py": {
+   "sha256": "51bfc2026fabf433446bf6f36a76526603662f0bef356e1dd1e561a7f229396e",
+   "size": 7860
+  },
+  "suite/edm_gig_pipeline/sync_offsets_apply.py": {
+   "sha256": "8deeabaccccfb45c02cc8b591421169d8683f84c833511d8c434d77c73200e44",
+   "size": 43393
+  },
+  "suite/edm_gig_pipeline/sync_prewarm.py": {
+   "sha256": "4c46947fffa4abfdfb18075bf7435b32abbf25ff9f50f9d6c07d04410ab3b03a",
+   "size": 15610
+  },
+  "suite/edm_gig_pipeline/sync_refine.py": {
+   "sha256": "5f229362a3c3b8cc0354b5678ea97c9994e00040e0574cf7a5c9902bd4e47b7a",
+   "size": 153471
+  },
+  "suite/edm_gig_pipeline/syncaila_bridge.py": {
+   "sha256": "b8f17b6c596aca9e49d6b5d9c2db7d2901865fbc2bc9c6eda7031dacb7667670",
+   "size": 31920
+  },
+  "suite/edm_gig_pipeline/syncaila_engine.py": {
+   "sha256": "f9c0e448f257b247597f2a4de93a385e0e4804dae30d1d8f8858c941b2b72320",
+   "size": 53495
+  },
+  "suite/edm_gig_pipeline/syncaila_lite.py": {
+   "sha256": "2bd4ded2565f3982118528a13c4922c44c42ae413c0ab7bac0bc659bb10585fb",
+   "size": 23544
+  },
+  "suite/edm_gig_pipeline/syncaila_settings.py": {
+   "sha256": "41e5e985c77f7c240f0a99c33d253ae88175841412a85506f1cfccc3e0a5110f",
+   "size": 9365
+  },
+  "suite/edm_gig_pipeline/syncaila_surface.py": {
+   "sha256": "5f9d7c02c054c090181af104a9d28c826ffad4a18596450b122989449ab4f85c",
+   "size": 8178
+  },
+  "suite/edm_gig_pipeline/syncaila_surface_mode.py": {
+   "sha256": "3e12ade92cfc80ce5262a96555979c78592d434a93a5ab332921f83d855844d8",
+   "size": 8141
+  },
+  "suite/edm_gig_pipeline/timeline_introspect.py": {
+   "sha256": "7c4df1299302b16810b512a398b0a960df603ffa54a4ade66101db35a928e9d3",
+   "size": 4028
+  },
+  "suite/edm_multicam_suite/AGENTS.md": {
+   "sha256": "c444f0193cda50afd41ee00684acd9450398d2f7039563e6441e53a3bb6f930f",
+   "size": 2287
+  },
+  "suite/edm_multicam_suite/__init__.py": {
+   "sha256": "8100c9940a0a3f4e78914c6b7e0abc3ac82ebda651d716da6f54ee2757540e6f",
+   "size": 221
+  },
+  "suite/edm_multicam_suite/analysis/__init__.py": {
+   "sha256": "5f68693b746632a8098cffae02c332133c6d6fa75025b2f6005ea272eeea431d",
+   "size": 1428
+  },
+  "suite/edm_multicam_suite/analysis/analyze_worker.py": {
+   "sha256": "8d5858826803c5353123f03581761e6bd2ed1251c1cf1e378bab01678f889347",
+   "size": 14655
+  },
+  "suite/edm_multicam_suite/analysis/beat_analyze.py": {
+   "sha256": "38cf250ec9e153f3d4ba1710f0b33323f80b7e61680429c364c7e4bd148668d7",
+   "size": 4842
+  },
+  "suite/edm_multicam_suite/analysis/grid_octave_audit.py": {
+   "sha256": "270072f55874a5a2e62ee01f2b73139bfba468bfd1160ee9b4ef66b47d909954",
+   "size": 7563
+  },
+  "suite/edm_multicam_suite/analysis/grid_octave_fix.py": {
+   "sha256": "c21b08e6119076753abb048a81dc6137848feda7ca3f24d2e66814584e06a862",
+   "size": 11260
+  },
+  "suite/edm_multicam_suite/analysis/rhythm.py": {
+   "sha256": "1afa48051ba1280079defa58e8ba689dbe55a9ba316e324d95f6586c6f397119",
+   "size": 11645
+  },
+  "suite/edm_multicam_suite/analyze_worker.py": {
+   "sha256": "50de1e2d55d617be56b64801a01c717c16589e93d91ed64b7b3d7ccef392a990",
+   "size": 195
+  },
+  "suite/edm_multicam_suite/angle_config.py": {
+   "sha256": "ccc0091cd1f617ff46cfae3b5ff31402ce3804ea1baf442e067dc66b8a4b67e2",
+   "size": 9250
+  },
+  "suite/edm_multicam_suite/anglesync.py": {
+   "sha256": "68efb4b2af89958787e645c5eb52f6266497e71eb15164fa504b36a809b654f8",
+   "size": 189
+  },
+  "suite/edm_multicam_suite/app.py": {
+   "sha256": "3c7516ea380343815361c70fa64a01ed0ea7af37c8f773c62e2123bdae6c5f56",
+   "size": 180
+  },
+  "suite/edm_multicam_suite/beat_analyze.py": {
+   "sha256": "93d1f6859e0658f85746d610a741cd308fe9b9e53f21761ea8343115c910a200",
+   "size": 193
+  },
+  "suite/edm_multicam_suite/beats_cache.py": {
+   "sha256": "bcd9212c882d3dd47cf795e8a8c654ccc52e51b750330039bae03bba9f45f84c",
+   "size": 191
+  },
+  "suite/edm_multicam_suite/clip_context.py": {
+   "sha256": "fbfa6c1b522f74746ca124a58ffb857dbb435e5ad7ce12667c66fe59584ed8bb",
+   "size": 192
+  },
+  "suite/edm_multicam_suite/coloring.py": {
+   "sha256": "4dd4250fabd7483843b4d6b4ac887e539fc123f4511e1d438ccbeec6f522038e",
+   "size": 188
+  },
+  "suite/edm_multicam_suite/constrained_random.py": {
+   "sha256": "f1ffb5c5dd298475fe9824b206f6c52daab46e5b211e654ca3fd3c4a74b69442",
+   "size": 198
+  },
+  "suite/edm_multicam_suite/core/__init__.py": {
+   "sha256": "e2a0f478a9ec3261226682cac930d43256813754378589dd6514b7a3955072ac",
+   "size": 2039
+  },
+  "suite/edm_multicam_suite/core/app.py": {
+   "sha256": "513aa7a005358a8f24d4f4ef3de1de629924cb204ec6e1121a410667c59f628a",
+   "size": 96970
+  },
+  "suite/edm_multicam_suite/core/atomic_write.py": {
+   "sha256": "a954bdc883418abe2b03e207aa917bbab4440c21c05be9757733d1221b0cf1ea",
+   "size": 3336
+  },
+  "suite/edm_multicam_suite/core/debuglog.py": {
+   "sha256": "9d30a82aad599703103e4ee010fd3dca340172cf8dcf1df3a4fbcc9864722f5f",
+   "size": 29211
+  },
+  "suite/edm_multicam_suite/core/meta_guard.py": {
+   "sha256": "57e17b01fc05abf228d33c1718442f7b28e1509fc290c75f26d0555d4dc07d99",
+   "size": 12375
+  },
+  "suite/edm_multicam_suite/core/pass_evidence.py": {
+   "sha256": "703b88008c26562666b83453c5f1a0956f5b5bcdfdfc445870a0c1f67a96834a",
+   "size": 4768
+  },
+  "suite/edm_multicam_suite/core/pass_outcome.py": {
+   "sha256": "83238fbc97e955ba69e5a1b2775d52e4ccc88ce275327c7b8a28ab259a9277ed",
+   "size": 1287
+  },
+  "suite/edm_multicam_suite/core/pass_plans.py": {
+   "sha256": "6c107110403d8cf0b097f0835a2160ec2d4e470a6b21de23d3b4742b33a1b680",
+   "size": 1704
+  },
+  "suite/edm_multicam_suite/core/pipeline_queue.py": {
+   "sha256": "0e205ed3b36241b8b3dc774ea94741a618b4969e0b288a83e9eccb2da57f59eb",
+   "size": 1749
+  },
+  "suite/edm_multicam_suite/core/plugin_version.py": {
+   "sha256": "4637d9de4ec667c01d81f41c1ef4c1483a70ab6f83394a216d065bd210f2e30a",
+   "size": 3279
+  },
+  "suite/edm_multicam_suite/core/process_priority.py": {
+   "sha256": "53f88ce88d73f63b53966a2c9c47e099394144f611cd707f0b00589766bd102e",
+   "size": 1407
+  },
+  "suite/edm_multicam_suite/core/resolve_api.py": {
+   "sha256": "fc2cf424c38ad4078314474b850a069534081c271d94e35405a4134d65de604c",
+   "size": 129891
+  },
+  "suite/edm_multicam_suite/core/resolve_context.py": {
+   "sha256": "e26812d35f2fb7b5171134012988614b94508b8a3d55fe207a4107678e04234a",
+   "size": 18654
+  },
+  "suite/edm_multicam_suite/core/setlist_identity.py": {
+   "sha256": "482602968725899487e1d5db36715ceafbac426ca478d03700e4f308b8037c57",
+   "size": 7007
+  },
+  "suite/edm_multicam_suite/core/settings.py": {
+   "sha256": "9ef39b968dd4dae3301e46cedee54ad982abd247ccecc60de0222334a2d751bc",
+   "size": 10429
+  },
+  "suite/edm_multicam_suite/custom_functions/__init__.py": {
+   "sha256": "87e576f38184f46b10849e47de6af1e492b2179794c86093f4fe1dd37d73b2f3",
+   "size": 2147
+  },
+  "suite/edm_multicam_suite/custom_functions/angle_grade_ops.py": {
+   "sha256": "ec7ec6dc90ad6ca362baba7d93c97d4b17e83d0fb33a704fd4c385a5febc879e",
+   "size": 6482
+  },
+  "suite/edm_multicam_suite/custom_functions/angle_groups.py": {
+   "sha256": "a4cf28112dc4488331e71e54f513d4d7ed2ab21e9f7e708763fc3b0e6cb58789",
+   "size": 7690
+  },
+  "suite/edm_multicam_suite/custom_functions/audio_ops.py": {
+   "sha256": "f4669fa7ef7810c1f3ca3e9d01f2fdb8580207a7ffa110ee97cfff6dd3eeaf1b",
+   "size": 13416
+  },
+  "suite/edm_multicam_suite/custom_functions/boundary_agreement.py": {
+   "sha256": "52ea22914a66c3cbd2774c8c4f5dc343debd4ec0997c088afd579d6ac614719a",
+   "size": 2832
+  },
+  "suite/edm_multicam_suite/custom_functions/boundary_grid.py": {
+   "sha256": "66ce1345b9c09c9b74e6d8d592b28d1774db50e77004e3fb50715f3d08082fa4",
+   "size": 3862
+  },
+  "suite/edm_multicam_suite/custom_functions/capability_introspection.py": {
+   "sha256": "c3d9e690e2019594c5687b98ff66cd4d76d5849078bf8f4376972fff58f63125",
+   "size": 2170
+  },
+  "suite/edm_multicam_suite/custom_functions/channel_reconciler.py": {
+   "sha256": "165dd5ad3d62d0449d30c46b3450ee51b7157634c3a81d6376bb68c4fe532c52",
+   "size": 11000
+  },
+  "suite/edm_multicam_suite/custom_functions/closed_loop_readback.py": {
+   "sha256": "98c106344c4da94e30468b6882bbd2816377b0ef3968a4ff1ed50ed7e02d78c7",
+   "size": 3358
+  },
+  "suite/edm_multicam_suite/custom_functions/color_version_ops.py": {
+   "sha256": "ad4ce2d81e5026ec618511a1c0a7b320657ef1866770a44711d800cbe620635f",
+   "size": 4626
+  },
+  "suite/edm_multicam_suite/custom_functions/compound_angle_bus.py": {
+   "sha256": "b13791c25771c29a42f7b79373df143a1dfd6fb5df10aa4c973544e99d24fed9",
+   "size": 8249
+  },
+  "suite/edm_multicam_suite/custom_functions/corrections_hygiene.py": {
+   "sha256": "ed0f1221fc18684285a4f4a6bf3c7e02e61a3b761608b436249facee11345b62",
+   "size": 3200
+  },
+  "suite/edm_multicam_suite/custom_functions/daemon_sentinel.py": {
+   "sha256": "184f5484fdf1e68b4925f78a2f282b9c85ea1e9dab052d86a111b7191ac00049",
+   "size": 3765
+  },
+  "suite/edm_multicam_suite/custom_functions/detection_confidence.py": {
+   "sha256": "f1d2f44b4a60366dd2a24d25fbbd4166ca74e1093fef28e250954b8e31ad503e",
+   "size": 4909
+  },
+  "suite/edm_multicam_suite/custom_functions/detection_drift_monitor.py": {
+   "sha256": "751d23452f62544e4a179749af4346113681c2563350fdff22b59c5eff574694",
+   "size": 4553
+  },
+  "suite/edm_multicam_suite/custom_functions/dtw_readiness.py": {
+   "sha256": "04a9b1a9bf329c6fe7ef7a4ada1cfb7b4460aefdffad716eb0364ae32ad54c8d",
+   "size": 2659
+  },
+  "suite/edm_multicam_suite/custom_functions/dual_writer_guard.py": {
+   "sha256": "fca9f1175cfabf7c2ae0d57a71ffc62e4c19f9bb80732b918cf83a3aff4050b3",
+   "size": 4492
+  },
+  "suite/edm_multicam_suite/custom_functions/fusion_hooks.py": {
+   "sha256": "5085300c9859b3bd3cd06f0f5a5f4e00f22464cacb6dfa2020a8428442bf8e4d",
+   "size": 4536
+  },
+  "suite/edm_multicam_suite/custom_functions/gated_plans.py": {
+   "sha256": "2a11eb5502507e94a154a7371b29a8b21b853916eb50406e3c800633a6f79665",
+   "size": 9783
+  },
+  "suite/edm_multicam_suite/custom_functions/grade_fingerprint.py": {
+   "sha256": "b242e651e3578c19eb5551f2ba8b651d53604c7397a99a1c077a40df6104bb23",
+   "size": 4935
+  },
+  "suite/edm_multicam_suite/custom_functions/grid_trust.py": {
+   "sha256": "e58a28162c85d14ce10a43cdb9e581ba44a6808f56a1a53491fa22b396c9ef6e",
+   "size": 2609
+  },
+  "suite/edm_multicam_suite/custom_functions/hardware_gates.py": {
+   "sha256": "d5629edddd588667ef93ba263543b18ce3702208c9cd5f32f94678e84f1eb66a",
+   "size": 14703
+  },
+  "suite/edm_multicam_suite/custom_functions/idempotency.py": {
+   "sha256": "c146aade3432c3a84271d62ab8ab826fe45475e28fea4364d230aca6134c0d00",
+   "size": 5345
+  },
+  "suite/edm_multicam_suite/custom_functions/ingest_ops.py": {
+   "sha256": "53784b7915dbf5fb91a6c5a86a9ff716f788d6e1abe656324daeee7221d671c9",
+   "size": 10275
+  },
+  "suite/edm_multicam_suite/custom_functions/link_integrity.py": {
+   "sha256": "5431f82a6faa3706ba608cfcec47864229a8b2a370bf9ea1a8561699ca751018",
+   "size": 4153
+  },
+  "suite/edm_multicam_suite/custom_functions/marker_qc_channel.py": {
+   "sha256": "db9ba90deb846475994d22446f8f26c277338abfdf8108bc5ad526915a66c7ea",
+   "size": 4252
+  },
+  "suite/edm_multicam_suite/custom_functions/matte_angle_mask.py": {
+   "sha256": "f7a49064120b24301ae25f214850a9600b3a9bca895cf06becb983f2f897ad77",
+   "size": 4151
+  },
+  "suite/edm_multicam_suite/custom_functions/onphrase8_steal.py": {
+   "sha256": "d98a7cdc00b7e51eb67dd9605bc60b83f5e60840f3a1f8cb4555c692ade900fb",
+   "size": 3756
+  },
+  "suite/edm_multicam_suite/custom_functions/otio_semantic_diff.py": {
+   "sha256": "7d7dba2ac54df90b7ab4406ea378a71a506275abd3c2a16af03f7175238f7e35",
+   "size": 5737
+  },
+  "suite/edm_multicam_suite/custom_functions/otio_smuggle.py": {
+   "sha256": "ae6392744713f111e9af3a93ad04e698dac093cc990dc0f53764be09f0ccc6bc",
+   "size": 7051
+  },
+  "suite/edm_multicam_suite/custom_functions/phase_stability.py": {
+   "sha256": "c1a8d9984c2ef7a9529e7949a76380bab98510b9a2f7f88bf0e459d133f8d411",
+   "size": 3549
+  },
+  "suite/edm_multicam_suite/custom_functions/phrase_triangulation.py": {
+   "sha256": "4c58520237e236ac54d4c23560c4160afe812b6d28c28fd07e24c7fde663e5ba",
+   "size": 5847
+  },
+  "suite/edm_multicam_suite/custom_functions/provenance.py": {
+   "sha256": "994bb8255394d1521e7a86f8f98a5a40f3bf85cb79fef9070caa39b956c38c02",
+   "size": 10142
+  },
+  "suite/edm_multicam_suite/custom_functions/quick_export_plan.py": {
+   "sha256": "da7dbe104cd61ad7d3fb32c341c16db8ec68ebf03666a23fe3772a5b542c3d79",
+   "size": 4006
+  },
+  "suite/edm_multicam_suite/custom_functions/render_dag.py": {
+   "sha256": "95a285fd8a6b067fefe65be7613b9bebb66fcef9d07dba7efd3b31d699646a92",
+   "size": 3793
+  },
+  "suite/edm_multicam_suite/custom_functions/render_intent_validation.py": {
+   "sha256": "539bc525bde4d38dac311f63f0b40ebfe3e08b0199f4dbbbbf8968caf376c533",
+   "size": 5153
+  },
+  "suite/edm_multicam_suite/custom_functions/render_observability.py": {
+   "sha256": "0416e6788e05f321eec30d7f2264db042d7e3b1f60e5b8a3da1b22aceda7cddc",
+   "size": 2502
+  },
+  "suite/edm_multicam_suite/custom_functions/render_sentinel.py": {
+   "sha256": "b2d0900f16ea3615fce1c168aa8c7d09259c2ded0d19c3e67308f34a1edf2614",
+   "size": 8832
+  },
+  "suite/edm_multicam_suite/custom_functions/review_ranker.py": {
+   "sha256": "ffcc7f82957c788eaeaea34d075aad3df3dda75e2b8d072c0459abb0545e26db",
+   "size": 3702
+  },
+  "suite/edm_multicam_suite/custom_functions/review_windower.py": {
+   "sha256": "36fb017b69a97143de5431f7d934d4e02e17916860d7a721f3b4196343ed64c0",
+   "size": 3131
+  },
+  "suite/edm_multicam_suite/custom_functions/run_all_guards.py": {
+   "sha256": "93d5222c84b6965dc99b9680f510d1bf8da598b9a4709d29d9333bc1e1c8c5e2",
+   "size": 6308
+  },
+  "suite/edm_multicam_suite/custom_functions/scaffold_ops.py": {
+   "sha256": "72a2d1ea9465f0780dbd23737e4eaee77e7aa4c8c319b4cbafa8e23c5f056f40",
+   "size": 15645
+  },
+  "suite/edm_multicam_suite/custom_functions/schemas/__init__.py": {
+   "sha256": "b924e50d4a37529eccfe8f1d7ff23d2184b1018e02896151ac72e68b46d156fd",
+   "size": 2002
+  },
+  "suite/edm_multicam_suite/custom_functions/schemas/auto_review_apply.py": {
+   "sha256": "c8a432f7b08a780347385835023d10dfd8a71335b678adbd22684b89526793c1",
+   "size": 395
+  },
+  "suite/edm_multicam_suite/custom_functions/schemas/closed_loop.py": {
+   "sha256": "851f3cff5d3e12ad039c075a5ae55629674ed5d4b0998fec7fc70aaf922e68f2",
+   "size": 395
+  },
+  "suite/edm_multicam_suite/custom_functions/schemas/detection_confidence.py": {
+   "sha256": "9c948a37c40f670dec5abf08d9d48e4bef0f030b5b49b491761c78bae1ffa602",
+   "size": 421
+  },
+  "suite/edm_multicam_suite/custom_functions/schemas/onphrase8_steal.py": {
+   "sha256": "e806b8f2c5c49409a7a8f07878a55eced7020fa928ada2cc364911137f7672e6",
+   "size": 359
+  },
+  "suite/edm_multicam_suite/custom_functions/schemas/phase_stability.py": {
+   "sha256": "1ce315b67849cb26d3cefab952bf4a855d698e66322dd85e9edae4366a096a19",
+   "size": 393
+  },
+  "suite/edm_multicam_suite/custom_functions/schemas/phrase_triangulation.py": {
+   "sha256": "5498ed9eabae34b4e1502718003dd9353a93bf479fefe92f6fd04a738d636bdc",
+   "size": 447
+  },
+  "suite/edm_multicam_suite/custom_functions/schemas/render_sentinel.py": {
+   "sha256": "621421dffcd450faaa4d0deee90b2b2822cc473dbe18bd5d2d93cbb5c60cef71",
+   "size": 466
+  },
+  "suite/edm_multicam_suite/custom_functions/schemas/transform_seal.py": {
+   "sha256": "7fa3af93b31f5729a5279e3bab041185dc9f114e606b5234e52eeeb38df0a8cf",
+   "size": 402
+  },
+  "suite/edm_multicam_suite/custom_functions/settings_drift_dump.py": {
+   "sha256": "95f9f420f1912982b0fcd5c37d2ee53c69f7045132473079717354b2b3347931",
+   "size": 3635
+  },
+  "suite/edm_multicam_suite/custom_functions/shazam_crosscheck.py": {
+   "sha256": "091146ef725f89e9a284e6bf9e7f041740f48fe6026b2662d68572ea8b49a473",
+   "size": 3695
+  },
+  "suite/edm_multicam_suite/custom_functions/sidecar_reconciler.py": {
+   "sha256": "cfbfb1a057cc2505b00764d651c2fd2f7952d4fa94c0273cb6861ced8043e571",
+   "size": 4213
+  },
+  "suite/edm_multicam_suite/custom_functions/state_db.py": {
+   "sha256": "9b6a853c087220841ccf7532d4984bf50914c91b853556958bdbc25b47aeae08",
+   "size": 7310
+  },
+  "suite/edm_multicam_suite/custom_functions/syncaila_bridge_surface.py": {
+   "sha256": "95bdc420741ed52204423f6c459d74757361f3e2c45a8ee42377825880cd49b7",
+   "size": 2166
+  },
+  "suite/edm_multicam_suite/custom_functions/timeline_probe.py": {
+   "sha256": "f94e0421bbbfa2fb7b2317aaa3248b07454eb2f4143267f2de5430e2e291739e",
+   "size": 5563
+  },
+  "suite/edm_multicam_suite/custom_functions/track_topology.py": {
+   "sha256": "8f4079cdabac446d30c3fcbcdcd8b361bc1b1febde207e1b09521a31e7a9dace",
+   "size": 4675
+  },
+  "suite/edm_multicam_suite/custom_functions/transform_seal.py": {
+   "sha256": "90e4b0ca06719a972dbb52096aeb17e8ab943517951947cc5339beda414f4adc",
+   "size": 5503
+  },
+  "suite/edm_multicam_suite/custom_functions/verify.py": {
+   "sha256": "c033beae7c18ffc243b4ec597d7d5eab85983f946a7dd7016cb1959d17db559d",
+   "size": 2198
+  },
+  "suite/edm_multicam_suite/cut_plan.py": {
+   "sha256": "7548162a495b7014483f82ec540e72b11637dc5a38af6ad1cdd5ce84f03505b9",
+   "size": 184
+  },
+  "suite/edm_multicam_suite/cutting/__init__.py": {
+   "sha256": "188b1ee98f8524e31636d97484974a0b1d175f501e68096bc846effd04d5f86c",
+   "size": 2665
+  },
+  "suite/edm_multicam_suite/cutting/angle_identity.py": {
+   "sha256": "2404ddc7a343d1b7339efb3fdc73dad94779c23abcf9f954f8077caa119fda72",
+   "size": 5764
+  },
+  "suite/edm_multicam_suite/cutting/angle_inject_probe.py": {
+   "sha256": "bde0b708f00c1e6227f6e16d9a88bbe9cec824e8456fbd6d21d62f9741b3c251",
+   "size": 8853
+  },
+  "suite/edm_multicam_suite/cutting/angle_plan.py": {
+   "sha256": "439de1ed176d3d6ed1a8eb4afbb7b00b06c36b962f5a7caca5c5942241ebab5b",
+   "size": 8929
+  },
+  "suite/edm_multicam_suite/cutting/angle_quality.py": {
+   "sha256": "0dade6611bca5b05aa9682b7a3104fdfaf9aae8046122b0fd82a18322e477c1b",
+   "size": 12178
+  },
+  "suite/edm_multicam_suite/cutting/angle_suggest.py": {
+   "sha256": "442f5101ae169eaa3269d0696c9637fd7cfab58ecedb300898878b05b807bed2",
+   "size": 8270
+  },
+  "suite/edm_multicam_suite/cutting/anglesync.py": {
+   "sha256": "13a3c5b15250f1a717005f104c93a9f979d1a633ade79874c9eb9f2e73c398f7",
+   "size": 156762
+  },
+  "suite/edm_multicam_suite/cutting/clip_context.py": {
+   "sha256": "23734a22a9c113d9fa09e2419427735706ba5c1441721ee2da32fafb3e0a8877",
+   "size": 4178
+  },
+  "suite/edm_multicam_suite/cutting/coloring.py": {
+   "sha256": "02bfe596f2284bfbc721ef85ffbc37b96236444530ad7a002c5e18fc493e1b43",
+   "size": 11367
+  },
+  "suite/edm_multicam_suite/cutting/compound.py": {
+   "sha256": "9a2c92b281cfd3a5f1a141dca34113c0e1206aace2d90bdf09d0a29ad17ffc6e",
+   "size": 16057
+  },
+  "suite/edm_multicam_suite/cutting/constrained_random.py": {
+   "sha256": "e725ebb401766bd4940ff2d04586dd6b3e4338bce58ad164d5abb890d81d0e02",
+   "size": 13231
+  },
+  "suite/edm_multicam_suite/cutting/core.py": {
+   "sha256": "56dda64ea006d369b511ea61ae897ab335807f4140fa39ede0568ab9eefdb8ad",
+   "size": 96487
+  },
+  "suite/edm_multicam_suite/cutting/dynamic_zoom.py": {
+   "sha256": "23cc5b61b4d8f32085660e004df727d3f11a0536a7aacc66b396d62045161dfe",
+   "size": 149775
+  },
+  "suite/edm_multicam_suite/cutting/handheld_pack.py": {
+   "sha256": "20bb9648ff093507e254f0613c80b864463afd66ad09f257f96c7d4e95f7ebc0",
+   "size": 16584
+  },
+  "suite/edm_multicam_suite/cutting/live_taps.py": {
+   "sha256": "a729f989c346a7e45274783bd6914eb24beb3b15e559812714bb920ac1ea3cf4",
+   "size": 8231
+  },
+  "suite/edm_multicam_suite/cutting/multicam_convert.py": {
+   "sha256": "6a95792e4ac0502a2b6543171974538c92047ac2ba9c2d79ddb7f4d43b318415",
+   "size": 13393
+  },
+  "suite/edm_multicam_suite/cutting/perform.py": {
+   "sha256": "27f20774f4980e5e20c44b91ad6ff47b5409e3ecdf3e311185c222639cd8d346",
+   "size": 14952
+  },
+  "suite/edm_multicam_suite/cutting/phrase_planner.py": {
+   "sha256": "94e9e8272ef81824b29306ca64c273c864a12b37098277c33c12583380f485ba",
+   "size": 11346
+  },
+  "suite/edm_multicam_suite/cutting/plan.py": {
+   "sha256": "702a6160d13222a51a05b685975d0ce7903f1dde4069e12104c98d05c504d0a5",
+   "size": 32632
+  },
+  "suite/edm_multicam_suite/cutting/progress.py": {
+   "sha256": "4d2663cfb46191b617f36ee0a56d81a3c39e78a335beb72e47dd5ae810aaa779",
+   "size": 4376
+  },
+  "suite/edm_multicam_suite/cutting/randomize.py": {
+   "sha256": "82a7194f2d8823d4fa032335fba5f402a0940ea5855e102a55ef398c88852e42",
+   "size": 82411
+  },
+  "suite/edm_multicam_suite/cutting/review_feedback.py": {
+   "sha256": "ee6a942a7ba334b789033b90c7b7039665c30b3e6dbd704effef07b4762a735a",
+   "size": 2765
+  },
+  "suite/edm_multicam_suite/cutting/scope_snap.py": {
+   "sha256": "eb577100dc7bbb3a0066cdc79109c4716da2dbca831434c4654c8e5d54f16e8e",
+   "size": 6673
+  },
+  "suite/edm_multicam_suite/cutting/selection_context.py": {
+   "sha256": "3a382f6d301c15bc5e26d2615ce4035c8686ced06e819694f57abf505eade2ed",
+   "size": 21939
+  },
+  "suite/edm_multicam_suite/cutting/switch_locks.py": {
+   "sha256": "cf28332f2caa96a9b13937b419025cd3a753e3451c33b32d3efa625083dc7f4a",
+   "size": 5160
+  },
+  "suite/edm_multicam_suite/cutting/taste.py": {
+   "sha256": "46e6ea1729686c9c2137c23cc37f895ca30e57652c087196c3de8bf20b0a7efb",
+   "size": 24949
+  },
+  "suite/edm_multicam_suite/cutting/track_scan.py": {
+   "sha256": "97058339ef66a2e6230f2ac26b0fa95b40d8548c34eb49ae4c9e7a601163c6ef",
+   "size": 4836
+  },
+  "suite/edm_multicam_suite/cutting/track_style_sync.py": {
+   "sha256": "36861fc6119f12fb0bd0825af35e0bd6affaeaa3ce43c44ce301e57c96296da5",
+   "size": 35288
+  },
+  "suite/edm_multicam_suite/cutting/verify_angles.py": {
+   "sha256": "ac368351550475d9fdd0f213ab7575c58de45a93711091e388fd367192e7c6bc",
+   "size": 7187
+  },
+  "suite/edm_multicam_suite/cutting/zoom_ledger.py": {
+   "sha256": "19911381b58c9719880fd34a28710f049db8cb1e7abea278f2f9d2e169913170",
+   "size": 7981
+  },
+  "suite/edm_multicam_suite/debuglog.py": {
+   "sha256": "875dd619465f76220a776d9b23773c34c47a9975f74c91ab79626b30c4529c85",
+   "size": 185
+  },
+  "suite/edm_multicam_suite/dynamic_zoom.py": {
+   "sha256": "263cb2877d80c5120fb4682c0a45eb031ff05a8ad887c8d66e9076a194f1f431",
+   "size": 192
+  },
+  "suite/edm_multicam_suite/ercp/__init__.py": {
+   "sha256": "78c7ac1fc979b6717d3b086c6e68ef9616fa143213c107acaeb9eb04b8327fde",
+   "size": 999
+  },
+  "suite/edm_multicam_suite/ercp/audit.py": {
+   "sha256": "620cb7ba29391f6933d1fc54409806dffc8b8d6a43520822545308462053f451",
+   "size": 6710
+  },
+  "suite/edm_multicam_suite/ercp/capability_registry.py": {
+   "sha256": "3bd853c9cb2daedff3fbf160051a5a95b384611bdf90560a50062a45f253fdc8",
+   "size": 12495
+  },
+  "suite/edm_multicam_suite/ercp/confirm_store.py": {
+   "sha256": "3ac695866de38253a95851c5d5b254c5ea1e4dc3f3675bb8cf3605a627e40bbc",
+   "size": 6346
+  },
+  "suite/edm_multicam_suite/ercp/custom_fn_catalog.py": {
+   "sha256": "5e1cd9a6504429885cbcb850c3039d7efd75fd792c6b883ca1c2aa4ff44fc2f7",
+   "size": 16698
+  },
+  "suite/edm_multicam_suite/ercp/dj_export.py": {
+   "sha256": "657ffd573e9a5b00ade04a9fc7f3a27c78b89a660ae8df4dd66df0d91425a7cb",
+   "size": 5692
+  },
+  "suite/edm_multicam_suite/ercp/edit_readiness.py": {
+   "sha256": "195ad1f5614042e7cffeba4792cd2772555a9cadfeecf667f7ba03c3794306c3",
+   "size": 11842
+  },
+  "suite/edm_multicam_suite/ercp/events.py": {
+   "sha256": "20e198da33aec49b27ced2ad19ddfc97c26f4baf5faf75de5cdbe8ba64c04989",
+   "size": 5031
+  },
+  "suite/edm_multicam_suite/ercp/external_media.py": {
+   "sha256": "dbe8947b3c7483bbfc67e26c0e7459e3de36ab1cc511b8002ae123abbb7f36ed",
+   "size": 6249
+  },
+  "suite/edm_multicam_suite/ercp/gig_status.py": {
+   "sha256": "181f9fcfa66136434b1aa813d6e50ed66ea08d4601f7e2e71baf164e65f1b9c9",
+   "size": 7362
+  },
+  "suite/edm_multicam_suite/ercp/guards.py": {
+   "sha256": "1ec064e03aeb4c769fe7f9272566800b8012841934810c259c2180a19b90607a",
+   "size": 2779
+  },
+  "suite/edm_multicam_suite/ercp/notes.py": {
+   "sha256": "9197e06c321b15bd4db0f85349445f2ced384a81663645080074bbd2b4c2e4a4",
+   "size": 7372
+  },
+  "suite/edm_multicam_suite/ercp/panel_context.py": {
+   "sha256": "b2f505a53c5fb40e60b565e76303d6979d74b367506dfd9952ebee32052e89cf",
+   "size": 11744
+  },
+  "suite/edm_multicam_suite/ercp/routes.py": {
+   "sha256": "bcb3517105a244ace4c5e683d4c31adb847a71b63abcf70cb11dd96e605974da",
+   "size": 85790
+  },
+  "suite/edm_multicam_suite/ercp/safety.py": {
+   "sha256": "c4fe52c8ada382cbf2be62ba002c34ff1d6d3c6b49f7ba63cdadeabe5e479357",
+   "size": 7083
+  },
+  "suite/edm_multicam_suite/ercp/schema.py": {
+   "sha256": "4b332572f02ff88bae5461e1b1ddb3b28b5ea6001d9f1c5a4252fe4f615dcf3e",
+   "size": 6156
+  },
+  "suite/edm_multicam_suite/ercp/server.py": {
+   "sha256": "c53053d3f653a950cacaa904c948c541534a16c8b29b063cbbbbccf76929c917",
+   "size": 25960
+  },
+  "suite/edm_multicam_suite/ercp/workflow.py": {
+   "sha256": "9836436274b299973ac1c4847d1ad9b939e1c155ecf0e6fbf5a39f211761540e",
+   "size": 9937
+  },
+  "suite/edm_multicam_suite/fusion/__init__.py": {
+   "sha256": "b629ec0e00d0ffab73b511e88729faa9fb9154ff59fc8f62c36932de7553a7b4",
+   "size": 643
+  },
+  "suite/edm_multicam_suite/fusion/multicam_source_fx.py": {
+   "sha256": "a1eac27f8aded5d5629fec57eabd41c374a8e00ba38a89261099764650907a19",
+   "size": 25919
+  },
+  "suite/edm_multicam_suite/gridlevels.py": {
+   "sha256": "eca379b06550ac1a5b2aaeebcd37f9e7082ac0be7fba6e797285d9818afb9c8e",
+   "size": 190
+  },
+  "suite/edm_multicam_suite/marker_hot.py": {
+   "sha256": "3e556041b0098134b12fecba0bb283a6221662d7474bb9521133b65ea06d8d7a",
+   "size": 190
+  },
+  "suite/edm_multicam_suite/markers/__init__.py": {
+   "sha256": "793f70a5528f5aea44c1ee7a45fcf368e5dbf58c156d39f5e5b4d6cf005b58e7",
+   "size": 2582
+  },
+  "suite/edm_multicam_suite/markers/beats_cache.py": {
+   "sha256": "c62aed9c2d9f936ca73b2348e6a0500ac9b68636fdcde89de07269cbe5bc45e0",
+   "size": 21396
+  },
+  "suite/edm_multicam_suite/markers/evidence_hooks.py": {
+   "sha256": "b1aac5075aaed2db4a89aff5c09641b126d158759cd0e6a4bb5e0e9a79344476",
+   "size": 6727
+  },
+  "suite/edm_multicam_suite/markers/gridlevels.py": {
+   "sha256": "95428e7cca23489462d38783659d494cab477294936bd9eea8431c0e3555179c",
+   "size": 24335
+  },
+  "suite/edm_multicam_suite/markers/marker_hot.py": {
+   "sha256": "f28748f7e57df7c49ea0654781018623256444edb2e2f44e90690d7538e9dea1",
+   "size": 16650
+  },
+  "suite/edm_multicam_suite/markers/markers.py": {
+   "sha256": "7f5c38e9e7e7491d5590b259b69e3f10b3a50b86635b59535a0423a55dc1fa19",
+   "size": 64883
+  },
+  "suite/edm_multicam_suite/markers/playhead_sidecar.py": {
+   "sha256": "cb4b713f59608a2fc0671a9d9ed5c580788ed89cc23119d270b8f76673a2cc24",
+   "size": 2677
+  },
+  "suite/edm_multicam_suite/pass_handlers/__init__.py": {
+   "sha256": "e44435ae43f81719007d7357478d53fb232a3b01410b91303a12afd0dd0e2248",
+   "size": 152
+  },
+  "suite/edm_multicam_suite/pass_handlers/context.py": {
+   "sha256": "0d45efc09dc773a51ff9fc661906805efe52bec6923e3bfed10cc1ad38079930",
+   "size": 1019
+  },
+  "suite/edm_multicam_suite/pass_handlers/gig.py": {
+   "sha256": "e4a78e02d87c8561b8344c7e288b52d071d0b2e71054632aa3ca95817feedced",
+   "size": 5011
+  },
+  "suite/edm_multicam_suite/pass_handlers/multicam.py": {
+   "sha256": "2b94be15130309a9b76f85de6018fa2663d9dba233b648081df494312decf065",
+   "size": 11522
+  },
+  "suite/edm_multicam_suite/pass_handlers/pre_app.py": {
+   "sha256": "2ec18ec375c6e4dd9d5acfa2c90093ff5c53c5a94ed613eef806cc7ead5f6496",
+   "size": 4773
+  },
+  "suite/edm_multicam_suite/pass_handlers/sections.py": {
+   "sha256": "ac7be5b7119813ee746f527278ce5067376b85c99e50d5025f660b8917589891",
+   "size": 22572
+  },
+  "suite/edm_multicam_suite/pass_handlers/song.py": {
+   "sha256": "c149f859a02f5600c0f89c6222c340503e2f576ca279266ba712640cc95b26fe",
+   "size": 17997
+  },
+  "suite/edm_multicam_suite/pass_plans.py": {
+   "sha256": "98350572629339096d2413d427663f0bf053051c942cd00839960283ad96e76e",
+   "size": 187
+  },
+  "suite/edm_multicam_suite/pass_state/__init__.py": {
+   "sha256": "2e468905baf811c6985892aa82bb941e3f1fbad08acda480be4e8cc5c1d7e8e2",
+   "size": 145
+  },
+  "suite/edm_multicam_suite/pass_state/daemon.py": {
+   "sha256": "901ca5a232dad357ecc5d5b96989efce536758338d1056d5ee0a194c3ecbab18",
+   "size": 70428
+  },
+  "suite/edm_multicam_suite/pass_state/dispatch_registry.py": {
+   "sha256": "c904fc66a755f53a97149c6f03a361a9068fe81023981ff5f13eb2475b27c9fb",
+   "size": 8044
+  },
+  "suite/edm_multicam_suite/pass_state/executor.py": {
+   "sha256": "48fd6886a74975d8108cd69ccd651fe64736a62c30c7fb3a31da4d1947c556f2",
+   "size": 5766
+  },
+  "suite/edm_multicam_suite/pass_state/panel_passes.py": {
+   "sha256": "02f57b59e6153d23ebe7288be0a408c5528ac0c0b4f9aa5826e28e3d18f830be",
+   "size": 9598
+  },
+  "suite/edm_multicam_suite/pass_state/pass_job.py": {
+   "sha256": "8028a2126a9f4a5d2be05bc2a109c7ab76cb6f6a6f85c61cfa3ae3485a905508",
+   "size": 5316
+  },
+  "suite/edm_multicam_suite/pass_state/song_profile.py": {
+   "sha256": "22eae81fd4e495678f545d6f3c4e1f93e0157e3697d6cce79649f3ea58ba13f7",
+   "size": 7060
+  },
+  "suite/edm_multicam_suite/pass_state/status_writer.py": {
+   "sha256": "7b65f649f293f21227e8d874d924d8721c06b923ee880d7c5bceefdf7ff197c4",
+   "size": 8015
+  },
+  "suite/edm_multicam_suite/pipeline_queue.py": {
+   "sha256": "2cacd73c7dcd125d80fff27908952cb890a39bb945d6500d40efb2f9a1b73dbf",
+   "size": 191
+  },
+  "suite/edm_multicam_suite/plugin_version.py": {
+   "sha256": "5821ee35f50c7c3bdcc22656eb9070b0faf8e3a6991e8e12ae775856864e3764",
+   "size": 191
+  },
+  "suite/edm_multicam_suite/process_priority.py": {
+   "sha256": "06b6561f372a6290aec1cb868cb9cec3623d77183adb22af6a89c076d0ec0cfb",
+   "size": 193
+  },
+  "suite/edm_multicam_suite/randomize.py": {
+   "sha256": "25d998201c6920541edc282cee9e6d647ec3e438b544ec5789d8762ecba862eb",
+   "size": 189
+  },
+  "suite/edm_multicam_suite/reframe.py": {
+   "sha256": "06ddc2df1979ef0598c0bed1240e5535efef74da6f33f6c1019a67769b718d78",
+   "size": 10741
+  },
+  "suite/edm_multicam_suite/reframe_apply.py": {
+   "sha256": "ee0cea93b40c5edec1fdc87e32b12cbebac642677636cecf53fb51705d27ab82",
+   "size": 11272
+  },
+  "suite/edm_multicam_suite/render/__init__.py": {
+   "sha256": "0dceefccf2e67fb1099c5d53799956580673ee61d999ec47d4f041a90a1f0c58",
+   "size": 1033
+  },
+  "suite/edm_multicam_suite/render/render_selects.py": {
+   "sha256": "bf95a62bb37849813a2467919985b933f12c7b001d48c6a9fa8c1fc64e53a2b0",
+   "size": 92495
+  },
+  "suite/edm_multicam_suite/render/social_clips.py": {
+   "sha256": "591c332bb52e592233507a33514ccab926f7a8b7aebf486834605d0576d655d8",
+   "size": 10634
+  },
+  "suite/edm_multicam_suite/render/song_checkpoints.py": {
+   "sha256": "3c75b89d03f33aebda727f63904572e6433fd05a1bb24dc18cb1165c291df824",
+   "size": 13681
+  },
+  "suite/edm_multicam_suite/render/song_render_jobs.py": {
+   "sha256": "ca3b1efdb07e687b196888969acf47d048123a3e76da86ac16d0954b70da64dd",
+   "size": 16219
+  },
+  "suite/edm_multicam_suite/render_selects.py": {
+   "sha256": "bdc832f704d7cfe0c526f59b216d453e4c18b90aa6b472f817b1b6faaf580579",
+   "size": 193
+  },
+  "suite/edm_multicam_suite/resolve_api.py": {
+   "sha256": "21a20d6d1d2b64fc483b727d96293a34b44e32df96e802b8ee44c3b9fec2a25b",
+   "size": 188
+  },
+  "suite/edm_multicam_suite/resolve_context.py": {
+   "sha256": "b5c6a15ab28e43d126cf31b987a816aa0dc28ed4bb7bc3ed48b758d15e522f0c",
+   "size": 192
+  },
+  "suite/edm_multicam_suite/rhythm.py": {
+   "sha256": "48fa6c34330af56e6cd2592db404087240b98ab207f4d0ed3c1bd6955247ac6d",
+   "size": 187
+  },
+  "suite/edm_multicam_suite/section_visuals.py": {
+   "sha256": "8b88b242d4dab37d2a65e6e1a5c16dbfa4f97f04686123576766d1aafb1aa094",
+   "size": 196
+  },
+  "suite/edm_multicam_suite/sections/__init__.py": {
+   "sha256": "33a7f1c2be633ceb39a9e74b2b52e2431f9eb9bf3a0475aa2325aa4d64ff240b",
+   "size": 369
+  },
+  "suite/edm_multicam_suite/sections/a1_setlist_sync.py": {
+   "sha256": "22dfa1e954478da7d3746072099e375a02345242eaf4785e55a8a0a7443532ef",
+   "size": 13523
+  },
+  "suite/edm_multicam_suite/sections/bootstrap.py": {
+   "sha256": "1f5195e30f5f801cc7b0959948d8178fe56bee7bc403f4ea62533c44b053ddfb",
+   "size": 18421
+  },
+  "suite/edm_multicam_suite/sections/proxy_build.py": {
+   "sha256": "0ffacae311505bd8006d791b655cad939df399f1a8982a528ea3dc494a02caff",
+   "size": 10078
+  },
+  "suite/edm_multicam_suite/sections/section_store.py": {
+   "sha256": "e2e29ff778835e9b23a3ff48a7af9674217ebbb5309ec348188fc5db76d2f182",
+   "size": 13515
+  },
+  "suite/edm_multicam_suite/sections/section_visuals.py": {
+   "sha256": "e6b385ab006cb6353d4721f4e71d1e68ed715228fbb44fdb8b259a6bbd652d3c",
+   "size": 73089
+  },
+  "suite/edm_multicam_suite/sections/sections.py": {
+   "sha256": "e6e95902597136affcfc95891bd7614c83f4f06d5b5c01eeffa9397dc63faa83",
+   "size": 121531
+  },
+  "suite/edm_multicam_suite/sections/setlist_freshness.py": {
+   "sha256": "d41574f8c4b619dcb8f8e7433bb3b9f74ac375741d7779dccdd0c100f2fbb6ee",
+   "size": 6590
+  },
+  "suite/edm_multicam_suite/sections/setlist_store_lock.py": {
+   "sha256": "dd8011c1692bfdb1577ae70177c811e8104067f41c347b2735046b4f0517a687",
+   "size": 9804
+  },
+  "suite/edm_multicam_suite/sections/song_id_auto_review.py": {
+   "sha256": "48f232171eaa13ab6ff106b7564496a79a780bf367c960a65498b26c7e863460",
+   "size": 12056
+  },
+  "suite/edm_multicam_suite/sections/song_id_import.py": {
+   "sha256": "f7bd25123fca16aaa11e145ab37b817171d96bb7465df555ae322427770be0f3",
+   "size": 26252
+  },
+  "suite/edm_multicam_suite/sections/song_id_review.py": {
+   "sha256": "18bdee32014495f9eef1e6d1a91d17a2017750f2b9d4b089385568c06d3fada9",
+   "size": 17681
+  },
+  "suite/edm_multicam_suite/sections/song_phase_map.py": {
+   "sha256": "dbbcfd4c43864f9d4638a8f29a0e89557103e57f3ee99e660b289cdc4e02966a",
+   "size": 25117
+  },
+  "suite/edm_multicam_suite/sections/song_phrase_scan.py": {
+   "sha256": "c360cc95f4047f2cce9c333320e6f930389a5bfe45007f6c3d1fef20a9cf2b39",
+   "size": 19341
+  },
+  "suite/edm_multicam_suite/sections/structure_apply.py": {
+   "sha256": "d0bf7b6329a6cae66b9132d709f32077662947e1d73a3d6dff9d7bc8f58968ae",
+   "size": 34597
+  },
+  "suite/edm_multicam_suite/sections/transition_spans.py": {
+   "sha256": "8f7c6bacda7b00c1066d6596b453747f57c244bc0edad5410ac6932cdbddc4a8",
+   "size": 17970
+  },
+  "suite/edm_multicam_suite/settings.py": {
+   "sha256": "59a17f49f93c87627f0f5b9817bd71c6f1dd502130107ff6556a863735e60099",
+   "size": 185
+  },
+  "suite/edm_multicam_suite/structure_apply.py": {
+   "sha256": "2d80620726e0a29147188a48d7cfdaaee89f106d4f292952f08e37c71b6a1ebf",
+   "size": 196
+  },
+  "suite/edm_multicam_suite/turbo.py": {
+   "sha256": "951404fd4460455ea7e2d6a720e43a0bcb0f503fa4041f13beea8311156d3499",
+   "size": 13572
+  },
+  "suite/edm_multicam_suite/update/__init__.py": {
+   "sha256": "ba79bb776f63d10f5b4fc267da724a514bb5df893383bff2cf1f2bb0d807ddd1",
+   "size": 107
+  },
+  "suite/edm_multicam_suite/update/ed25519.py": {
+   "sha256": "34653bd7457ecfff0b085ae33cdfd669e8fd204ab7ec8a4ae3d74e482184f547",
+   "size": 2425
+  },
+  "suite/edm_multicam_suite/update/lite_updater.py": {
+   "sha256": "cf908d34c4bb38f7de9e91783d471263235d610afb0fc86297b419b24d61ce21",
+   "size": 13789
+  },
+  "suite/models/structure/classifier_scaffold.json": {
+   "sha256": "7a5df88afefa9eb802267ca4e244f609a785cbb7969a2ede43e2e4d39ea4ade6",
+   "size": 802
+  },
+  "suite/models/structure/classifier_weights.json": {
+   "sha256": "3623448fa929fec5b710d68fbab45866825a17d304465e776847b7caf0edf51c",
+   "size": 297656
+  },
+  "suite/models/structure/model_manifest.json": {
+   "sha256": "05207ea4226e19c4ceee830710aba691671da0d428612cf4d727db2969a6193b",
+   "size": 341
+  },
+  "suite/models/structure/model_validation_approval.json": {
+   "sha256": "be8ccfc1428ba512b98d652ac5ce4b0c7cde7b936d1e29dbc9c82c6bd584e2d8",
+   "size": 415
+  },
+  "suite/models/structure/predictions/0b2de2aebb750d1a.json": {
+   "sha256": "8616cea368afd3db4cfe0fd7730b0a22bf93f312a1543224b207e9d0233cc9e1",
+   "size": 6250
+  },
+  "suite/models/structure/predictions/0ed53b65418bdb18.json": {
+   "sha256": "6bd275cc7224d44ba2e8fa33612995aefe4963787d97ce49aefe4b03061dd489",
+   "size": 7366
+  },
+  "suite/models/structure/predictions/251a14fada5a1fa3.json": {
+   "sha256": "8bb5f0a7498c3c6abae0f0e5b551657bf252c69a2184c6f86a19e3389501574b",
+   "size": 5048
+  },
+  "suite/models/structure/predictions/43e1531817e1b40a.json": {
+   "sha256": "328285745316bbf061120350b3a787271e232fcded56eb8d84f05908e5f87ebc",
+   "size": 6873
+  },
+  "suite/models/structure/predictions/4674e575e3f69680.json": {
+   "sha256": "e7f39aae79bec3ce2ec6acb2ca4020c781a7401bda22a5fcd17357ea91cec5fb",
+   "size": 5071
+  },
+  "suite/models/structure/predictions/510989d64c9d2487.json": {
+   "sha256": "839dd7906818a6fdbbf667d8f3f680ea55828474ed4fea8d3ed16ec5876a35ee",
+   "size": 5014
+  },
+  "suite/models/structure/predictions/5977fa33f60db64e.json": {
+   "sha256": "46213d56079f12671faa19cfe943115583c706a050da910bfaac14f37fbf8c7b",
+   "size": 6197
+  },
+  "suite/models/structure/predictions/5ab228036e7cf04d.json": {
+   "sha256": "fdcbdbe78318944e53f867f38c4892fb4a6853e134dacdd48c1eb605aba896ab",
+   "size": 6258
+  },
+  "suite/models/structure/predictions/5fdca8b33f8cd590.json": {
+   "sha256": "2bdc11f7190c15d2ba213f1afaa67b63af6e2a48c792fd2c7851155d86b152aa",
+   "size": 5665
+  },
+  "suite/models/structure/predictions/6501f019d44c0a88.json": {
+   "sha256": "40f1e6a62debe239f55b074f565a1688e34f5c820f9346421a8ce01716421792",
+   "size": 7378
+  },
+  "suite/models/structure/predictions/681304ae3efed8f3.json": {
+   "sha256": "4c9cf032670d800b1cb92bfd5f47d87a7caa2cf0d82c44cee22ef90d3fccdc42",
+   "size": 4953
+  },
+  "suite/models/structure/predictions/7cb868c2828bb022.json": {
+   "sha256": "9cb6572e3fdc26de64b6105299795dbd574e99fde4b91d69a552d61fde3b97e0",
+   "size": 5062
+  },
+  "suite/models/structure/predictions/8207262ebfcc31ec.json": {
+   "sha256": "72a9d84366609446099f525e98d70d98e322bc1bc860c80475fc787facafef50",
+   "size": 10403
+  },
+  "suite/models/structure/predictions/83a2ae89098675b1.json": {
+   "sha256": "4a14191fb060969e6e31d6b1a42b6d65d8764dd2249606e947153b663b71e3ed",
+   "size": 9197
+  },
+  "suite/models/structure/predictions/87453e118b04162d.json": {
+   "sha256": "631f73aee62a05b52ddd6e3208c4328e5bafd50633a8c10ee066ee6fde069cd9",
+   "size": 8074
+  },
+  "suite/models/structure/predictions/8f1af78b48a4c3ae.json": {
+   "sha256": "e169dcfbd659d78e6900321a5d864eb67ee0bb817a26761c20da782f6d02a947",
+   "size": 11637
+  },
+  "suite/models/structure/predictions/9872774171bf434a.json": {
+   "sha256": "f6d9cea867fdbc32a5316ce09536a4fa22938d0211a1149ae4fafa8786576820",
+   "size": 10990
+  },
+  "suite/models/structure/predictions/99d76b30cc54d50d.json": {
+   "sha256": "f7c17c8e5055b7dd3cc2665203ae23f2d4edcc65dc8529502146c6011d65f0d4",
+   "size": 6207
+  },
+  "suite/models/structure/predictions/9b3ace4c230946dc.json": {
+   "sha256": "178e037956a3e7c707787e04ada4ca847f0af3fed62ef6f34af41b83e4dd1e6b",
+   "size": 5021
+  },
+  "suite/models/structure/predictions/9dc76df0eebf2b08.json": {
+   "sha256": "41df062df60aa26a901ce4d160853e1dfe59ce56358bad23c8682187f13bd14b",
+   "size": 5021
+  },
+  "suite/models/structure/predictions/aebabc61fd966977.json": {
+   "sha256": "2b8090e8db4df8970d65ead2faf9494ba6cbc5a560ab6bfc8864ae8e153a38c2",
+   "size": 5597
+  },
+  "suite/models/structure/predictions/be1f41106a8018ab.json": {
+   "sha256": "b73f1cd74b0b77a7b0cd3baab1b0c719720f34f5a0419f13fea5b348495767cd",
+   "size": 4494
+  },
+  "suite/models/structure/predictions/c58c57a4ec0e1d02.json": {
+   "sha256": "5ad1afa6047a7d1e23e3b911ab642f78f877be30044048ad7e93f6e165397d80",
+   "size": 10386
+  },
+  "suite/models/structure/predictions/c609188eb6315896.json": {
+   "sha256": "ab459f6e2a2f598b41f811e3a4ea4b11cd14e341b68ba42625cf6cd67dbdd0c6",
+   "size": 7986
+  },
+  "suite/models/structure/predictions/c9404f0092ddceb7.json": {
+   "sha256": "ff493bfdd2fac7d71f2d35b9ac40f3e453bc2cc8bf27c841d19827d2eb3667d2",
+   "size": 6161
+  },
+  "suite/models/structure/predictions/d20849c700c32202.json": {
+   "sha256": "e4c32f6313da53a111d06b16f95d6013898c9c7e80d6fddfc79b0ceec86e0a9c",
+   "size": 6239
+  },
+  "suite/models/structure/predictions/d81ad102c0cac083.json": {
+   "sha256": "97cdd1c69ff4ee1e0af02832f464837b5f580e5d5dc374ee2fc1b457b4795533",
+   "size": 6239
+  },
+  "suite/models/structure_external_backed_20260615/classifier_scaffold.json": {
+   "sha256": "ca6a6f749b360ab1104c4692cd91a65a0d11e8c8203509eb4f23b6bd42a4cda6",
+   "size": 822
+  },
+  "suite/models/structure_external_backed_20260615/classifier_weights.json": {
+   "sha256": "ed885bf0287167cadd803cc97dfaea60fc04bd3db55a20495a944bbe45d70317",
+   "size": 1013945
+  },
+  "suite/models/structure_external_backed_20260615/external_datasets_provenance.json": {
+   "sha256": "24f6ea13a1f890be0d5d83ea351faed40340e030c20b4c891bca7c49d7823c35",
+   "size": 6352
+  },
+  "suite/models/structure_external_backed_20260615/model_manifest.json": {
+   "sha256": "356f8ad2b51da31017873a1bfc778490424fbf84f707fa294cf0c38d2635a2c9",
+   "size": 774
+  },
+  "suite/models/structure_external_backed_20260615/model_validation_approval.json": {
+   "sha256": "d917da40eabdd71fbf8219af5b0bee071acad3151265d47f616648c728092822",
+   "size": 650
+  },
+  "suite/models/structure_external_backed_20260615/predictions/43e1531817e1b40a.json": {
+   "sha256": "ada3b5b72f896715f7d1fe54a559800947bb86189bba8505b247714879ae6604",
+   "size": 7300
+  },
+  "suite/models/structure_external_backed_20260615/predictions/5ab228036e7cf04d.json": {
+   "sha256": "1788da76fb7bb82cc2453a17de82ce4baa9c9399d937438300137bd83610d970",
+   "size": 4099
+  },
+  "suite/models/structure_external_backed_20260615/predictions/7cb868c2828bb022.json": {
+   "sha256": "494fd00366ebcd59ff7e335609a101846f3d3d19ae3164ee2f0fdfff0c6e95f7",
+   "size": 3479
+  },
+  "suite/models/structure_external_backed_20260615/predictions/99d76b30cc54d50d.json": {
+   "sha256": "20a86b54de3c5a12e1081a461826213986d4edcba9c3248613eb500cc56981ab",
+   "size": 6009
+  },
+  "suite/models/structure_external_backed_20260615/predictions/9dc76df0eebf2b08.json": {
+   "sha256": "ae58a4ddbd0c545846435603268100b7396ef0a4c384d93056bee842e5401eeb",
+   "size": 7261
+  },
+  "suite/models/structure_external_backed_20260615/predictions/aebabc61fd966977.json": {
+   "sha256": "2ebbb2523328132f0866e234f2ac174a67bdf134017d70c73a6a7220bec122ed",
+   "size": 1600
+  },
+  "suite/models/structure_external_backed_20260615/validation/validation_manifest.json": {
+   "sha256": "e2d4e21fc1bb2a053fa1ec1bf877b9678685e789662fbb3c84c8bd3d9225540c",
+   "size": 169
+  },
+  "suite/models/structure_external_backed_20260615/validation/validation_report.json": {
+   "sha256": "cf9303c35cf8c3bcfe8bc84d9edcb44103ea5897d731a2b684ce28c14f9cc600",
+   "size": 4831
+  },
+  "suite/models/structure_real_edmformer_20260615/classifier_scaffold.json": {
+   "sha256": "f19181f89f86d361b4f990f46de743209402e6a851a29ca1a19dbaad7df365cf",
+   "size": 785
+  },
+  "suite/models/structure_real_edmformer_20260615/classifier_weights.json": {
+   "sha256": "d50f3c44d41bb6fba5456a4647e27e5f56e59d754340660af785ce6778df7ab0",
+   "size": 610760
+  },
+  "suite/models/structure_real_edmformer_20260615/model_manifest.json": {
+   "sha256": "a1f72fc81fe65e6c613209dea5a502660b029670cffb108cb452ac157944d928",
+   "size": 340
+  },
+  "suite/models/structure_real_edmformer_20260615/model_validation_approval.json": {
+   "sha256": "49a7a9eb2eb0ed5313949b25e861b1a31a8687f3585b97a7c7ccc982b36f8a17",
+   "size": 650
+  },
+  "suite/models/structure_real_edmformer_20260615/predictions/43e1531817e1b40a.json": {
+   "sha256": "b5b6c5128c6f416aeff94a564767d7fc2def20cbf6cbe75138fb413c2646d773",
+   "size": 7308
+  },
+  "suite/models/structure_real_edmformer_20260615/predictions/5ab228036e7cf04d.json": {
+   "sha256": "d44cd4d350c0903a7afc8d33a4c8e8c343841fda24071d23e5570ced8da0a616",
+   "size": 4106
+  },
+  "suite/models/structure_real_edmformer_20260615/predictions/7cb868c2828bb022.json": {
+   "sha256": "64f3386b2bc31879af5feee803f508d5026228c9135a5cecf44619f467f92f20",
+   "size": 3485
+  },
+  "suite/models/structure_real_edmformer_20260615/predictions/99d76b30cc54d50d.json": {
+   "sha256": "d48b95ffc06ea3a892b8aa9d725d32aa5f83e2d13b7a38be8ac34088d0b32982",
+   "size": 6018
+  },
+  "suite/models/structure_real_edmformer_20260615/predictions/9dc76df0eebf2b08.json": {
+   "sha256": "0365d8a743c06e77a460cae81795ac4fed810da195636aed78d1ae187c4cba3b",
+   "size": 7272
+  },
+  "suite/models/structure_real_edmformer_20260615/predictions/aebabc61fd966977.json": {
+   "sha256": "480c08d4465d6d6b49ce72aa9cb0c51f06e5edafc97ff93f3f54368d6e2d2ea8",
+   "size": 1602
+  },
+  "suite/models/structure_real_edmformer_20260615/validation/validation_manifest.json": {
+   "sha256": "b793bfeac8b8faae0c765f56cd709cea3c01f6f5f891da0afad8db979fc0d782",
+   "size": 169
+  },
+  "suite/models/structure_real_edmformer_20260615/validation/validation_report.json": {
+   "sha256": "a15a534ad02c4457270f22932f4ac4efe25770a59fbb717b262192666ec4674c",
+   "size": 4831
+  },
+  "suite/models/structure_real_edmformer_20260615_172647/classifier_scaffold.json": {
+   "sha256": "572cf4c259b8234430bdb52c0b85e69a9328330ca03519fefe6a3a5b0740bfab",
+   "size": 752
+  },
+  "suite/models/structure_real_edmformer_20260615_172647/model_manifest.json": {
+   "sha256": "17e97039db7c2a0dd232182a88d364a7a735366baea5d9fb07a564781311813f",
+   "size": 225
+  },
+  "suite/models/structure_real_edmformer_20260615_musicfm_real/classifier_scaffold.json": {
+   "sha256": "ccad4174686280dbe9cc56b126705d284304bf3df92ffcd7d216a24ee57ffdde",
+   "size": 773
+  },
+  "suite/models/structure_real_edmformer_20260615_musicfm_real/classifier_weights.json": {
+   "sha256": "d61f104aaa0c8be3dd2267225ea8f6c7eb06d3d00de619826b20e44bf6638c29",
+   "size": 1013633
+  },
+  "suite/models/structure_real_edmformer_20260615_musicfm_real/model_manifest.json": {
+   "sha256": "89254812f4a8cb4db3d571c7f982930b73aa5fbaf9193bef20ad2d853f3afa6e",
+   "size": 340
+  },
+  "suite/models/structure_real_edmformer_20260615_musicfm_real/model_validation_approval.json": {
+   "sha256": "c66f2ef30328e7a9a512d759c649c47eda8133b783ef50d078bd5b63b7072fb9",
+   "size": 650
+  },
+  "suite/models/structure_real_edmformer_20260615_musicfm_real/predictions/43e1531817e1b40a.json": {
+   "sha256": "ef9197043995aef72af307dd9cec336a0037b4a19983bdbffaf512c37f0e1ece",
+   "size": 7302
+  },
+  "suite/models/structure_real_edmformer_20260615_musicfm_real/predictions/5ab228036e7cf04d.json": {
+   "sha256": "82a33df5b0677f6b530cafa35dc3df814035bbd5f0cfca130102e9e1fae928f5",
+   "size": 4099
+  },
+  "suite/models/structure_real_edmformer_20260615_musicfm_real/predictions/7cb868c2828bb022.json": {
+   "sha256": "350dafef5daf980fcabfc80d08e781cb3dfce85a925efc1d97b5f6bebd5b8896",
+   "size": 3480
+  },
+  "suite/models/structure_real_edmformer_20260615_musicfm_real/predictions/99d76b30cc54d50d.json": {
+   "sha256": "7e7e84e2715f930ef37d08eefc44699dbf16179cfda12252f2495f44ec66cc13",
+   "size": 6010
+  },
+  "suite/models/structure_real_edmformer_20260615_musicfm_real/predictions/9dc76df0eebf2b08.json": {
+   "sha256": "d481cfbbdf18bfb02df1edecda62538aba9683ef614ed31abbe0f5a7e59dbaad",
+   "size": 7263
+  },
+  "suite/models/structure_real_edmformer_20260615_musicfm_real/predictions/aebabc61fd966977.json": {
+   "sha256": "98107a044d0bdcb6967eb8012c4fe04937d083f5659903bca40949ac360b5a73",
+   "size": 1600
+  },
+  "suite/models/structure_real_edmformer_20260615_musicfm_real/validation/validation_manifest.json": {
+   "sha256": "3274186f23527b8d391b71f9602a85d27fe8f57df485e30873f6820f0f512d9c",
+   "size": 169
+  },
+  "suite/models/structure_real_edmformer_20260615_musicfm_real/validation/validation_report.json": {
+   "sha256": "5313d69ba9f16209f9c8c3fbf1031f1d08e5789628c378cac3686ecded4406fe",
+   "size": 4831
+  },
+  "suite/scripts/AGENTS.md": {
+   "sha256": "b430763d876ce1c4f375f1ee7ea326d7c496b1d86a025a2366fa28942505ad94",
+   "size": 2830
+  },
+  "suite/scripts/_audio_align_probe.py": {
+   "sha256": "ca5fda6c19eb3b27022a4ae92ae0912f4cd827d9382335528792afdd4d388a62",
+   "size": 1916
+  },
+  "suite/scripts/_audio_align_sync.py": {
+   "sha256": "353e606a4c14b1e4c18403492ea86e888726eeb1242007e837f26ed143506b5d",
+   "size": 2585
+  },
+  "suite/scripts/_pl_watchdog_tune.py": {
+   "sha256": "cce90129fd2878936c7b0271ca19ca944eb7c05ae4752f727e2c7c9c2363c9c6",
+   "size": 6609
+  },
+  "suite/scripts/_pl_watchdog_ui.py": {
+   "sha256": "7ec599a492b37da48d70ae2f76385b2d7233ef4b2df24df1a4009fb856028965",
+   "size": 3602
+  },
+  "suite/scripts/_probe_multicam_open.py": {
+   "sha256": "a9001f3769a04f053708ed008c295a2eeacf86afb46a62747fe0624367775618",
+   "size": 2035
+  },
+  "suite/scripts/_probe_multicam_stack.py": {
+   "sha256": "6ae7af048a1879988ea6867c9d5ebd95b651d37e0ef2403888917ab64369492a",
+   "size": 2017
+  },
+  "suite/scripts/_probe_multitrack_razor.py": {
+   "sha256": "d8cd65cab10d6afdd94febecb4887a9ab9121ce9d00a6e9bb769a0544bd8a38c",
+   "size": 6928
+  },
+  "suite/scripts/_wmcp_client.py": {
+   "sha256": "cf061918472d6508177d85391d4036e3b2c364cb8289762b035ec3591567a0ba",
+   "size": 3877
+  },
+  "suite/scripts/_wmcp_session.py": {
+   "sha256": "68225c7ec07f5a04968ca4f7ca78143c08fb8ce953d2c3ad2ce2f7bd1e1dddf6",
+   "size": 12859
+  },
+  "suite/scripts/agent-search.ps1": {
+   "sha256": "d7f8db10c6f1ad9a67b5204eb585ac9b4c2ecb4aaaf787dc22e75205a457ee09",
+   "size": 9047
+  },
+  "suite/scripts/agent_context/build_bundle.py": {
+   "sha256": "529857e342952124b88b69c2cf63b37a84b12a19628cf15a7ae02463bee4e0ea",
+   "size": 10720
+  },
+  "suite/scripts/agent_context/build_context_packs.py": {
+   "sha256": "4dd79377bedcce764410ee0ef72c19d3fefb96345cfdbd2a693d1b05d3d80d65",
+   "size": 1750
+  },
+  "suite/scripts/agent_context/cli.py": {
+   "sha256": "c6b4c6c91714d2bfc5261d4a5ef3a11628d3cf72f74bbe0848b9bb66b6b6e174",
+   "size": 11031
+  },
+  "suite/scripts/agent_context/context_packs.py": {
+   "sha256": "ee095c6d668b7fe93f4b20530005d06f3aa33065ccbc5749dd5d05af13886b3f",
+   "size": 16956
+  },
+  "suite/scripts/agent_context/instruction_sources.py": {
+   "sha256": "b1856618b9ee65c4cb5ae0f9067e113891974025d69dc48afc8f36b0dd757fce",
+   "size": 3383
+  },
+  "suite/scripts/agent_context/lib.py": {
+   "sha256": "a5872bd2e8e3eb179c15e1350fe9a19432c73ae6de9acec447f1a9fe94353c4d",
+   "size": 10240
+  },
+  "suite/scripts/agent_context/validate_bundle.py": {
+   "sha256": "799f8bc1659acb9f3d3678c3ad85735f4e16d1d05659ffe1d1e08561f19b5b45",
+   "size": 13177
+  },
+  "suite/scripts/agent_context/validate_context_packs.py": {
+   "sha256": "cfb62a234e9f4aa1af2e50e5bff2a0a3c4506850089e4d2cad64ef364a9e2028",
+   "size": 1175
+  },
+  "suite/scripts/agent_loop.py": {
+   "sha256": "57b528c19bbe8fccff5ff7541833fc08a9f724289bca88ad09b8fc0fe4aec53a",
+   "size": 7565
+  },
+  "suite/scripts/agent_preflight.py": {
+   "sha256": "61f3a9e489a69fcf41fc8eabf859d6d9fd4014d468c1d93cff8d37225307ab5b",
+   "size": 14787
+  },
+  "suite/scripts/ahk/ahk_common.ahk": {
+   "sha256": "7713eb6976c1220cfd039446aba78527167c5b8f519c52e9a0d17835f9aabc4d",
+   "size": 755
+  },
+  "suite/scripts/ahk/beat-timeline-overlay.ahk": {
+   "sha256": "653a7c176a7c80fa9cbe9ee82c389f9fd0d489097eaa604b7189130c540c4e97",
+   "size": 28283
+  },
+  "suite/scripts/ahk/edm-dock-guard-selftest.ahk": {
+   "sha256": "a196ef9d4b318e65bf53b0bab4c93a93d5d1931e612abe6d5586cac2b3df78c5",
+   "size": 2501
+  },
+  "suite/scripts/ahk/edm-dock.ahk": {
+   "sha256": "168b2c2f6f4881cb3b8c0c85ff655f78faaee73ac06a8f9f2d30ba1530b0d633",
+   "size": 280913
+  },
+  "suite/scripts/ahk/edm-force-reset-hotkey.ahk": {
+   "sha256": "130d06443d5e6bf0b7d5a9e065c5c676f15af008795cb67bc5528b025b682a8c",
+   "size": 3611
+  },
+  "suite/scripts/ahk/edm-suite-reset-helper.ahk": {
+   "sha256": "858e87ca557b392bc9b9608795458d38ae4ee95cd1c54e11e8689ecf1e82f51a",
+   "size": 2678
+  },
+  "suite/scripts/ahk/resolve-dynamic-zoom-hotkeys.ahk": {
+   "sha256": "c90cca2a3ec2d557e464633a30d05e92e0670362f63623050c8c3c1a84ca6e10",
+   "size": 48505
+  },
+  "suite/scripts/ahk/restore-resolve-width.ahk": {
+   "sha256": "a45343d4018acdb275228adbff50c9ab59a71d6819967fbb28b47c432f9dbd10",
+   "size": 1813
+  },
+  "suite/scripts/ahk/syncaila-bridge.ahk": {
+   "sha256": "20ab77f211417522eba72751e343008e2e6f93c6fc0765a3dd80992135a876cb",
+   "size": 26179
+  },
+  "suite/scripts/ahk/timeline-audio-nudge.ahk": {
+   "sha256": "040550b24c40e5f23e9b390ce7221b530a8c6e2d8c15efc72696d9551fc3f58c",
+   "size": 7502
+  },
+  "suite/scripts/analyze_in_out.py": {
+   "sha256": "9b2444ca2e88db3597cd822cc8fb6862b6460ae90d566300ff19207cb40f0d50",
+   "size": 2626
+  },
+  "suite/scripts/analyze_setlist_latency.py": {
+   "sha256": "838db796270ec98c183b1a1db18af1306dcc82d256566de92690008298bc941d",
+   "size": 7912
+  },
+  "suite/scripts/angle_quality_worker.py": {
+   "sha256": "ca4e4bd6b37587234121ac276ea8812071d2751cbc2fdfdae4abb24a9ac17545",
+   "size": 8472
+  },
+  "suite/scripts/append_debug_ledger.py": {
+   "sha256": "3e07ce54795cf42b7a1738b47d464ac30f9e7195e2d932a848e7f7efe47acace",
+   "size": 2687
+  },
+  "suite/scripts/assemble_structure_training_dataset.py": {
+   "sha256": "3b90471225a0039b9bfbd2ff374ed20f06b356fdc50d0d1074c3974b6ef38530",
+   "size": 8589
+  },
+  "suite/scripts/ast-grep/cancel-flags.yml": {
+   "sha256": "1629a604eab0888297106d9c2e4e81770687e872cdfc29201d17886543ce3613",
+   "size": 180
+  },
+  "suite/scripts/ast-grep/ipc-handlers.yml": {
+   "sha256": "36bf421d07171057c33e17649e07d27f27c48aec3398df9e0847e4ca94d52d77",
+   "size": 122
+  },
+  "suite/scripts/ast-grep/pass-dispatch.yml": {
+   "sha256": "9d3222807178f272725e4aacec31e4a6fb898fe7402082fd16e3253fdae66f97",
+   "size": 184
+  },
+  "suite/scripts/ast-grep/preload-invoke.yml": {
+   "sha256": "2e1600a11c5f6b8bb0f1c45a72115803bae25cc415ee37f031317b00e2b2ffde",
+   "size": 134
+  },
+  "suite/scripts/auto_review_apply.py": {
+   "sha256": "be65d36226cfecade228a007cd5068bec3fdc6e77243adcd277da0739c6fb7ac",
+   "size": 12166
+  },
+  "suite/scripts/auto_review_loop.py": {
+   "sha256": "303d1a52b17b68dad2e545c470a5ef80ec3b6d5b3d23ad8b7fcd92859529a1f3",
+   "size": 11613
+  },
+  "suite/scripts/auto_review_stability.py": {
+   "sha256": "ca1ab30440892194cc60dc5f81319e248e0ce2df5fb1a1bcde101d715934b75a",
+   "size": 4489
+  },
+  "suite/scripts/autocue_studio.py": {
+   "sha256": "48bd37638b83c448d6430d0ded22f600f2d266883a3dead6789af68f703d7c53",
+   "size": 41082
+  },
+  "suite/scripts/batch_library_structure.py": {
+   "sha256": "b17f0f04478e72e952e5bc951f3f86c0c87125fe00475d0f08bda16ae2919bd8",
+   "size": 9785
+  },
+  "suite/scripts/bench_live_sync_scan.py": {
+   "sha256": "90d1fa6147c14e7cbcdf551b704b512faf9a543da91202f23bdde3c787b292ac",
+   "size": 5242
+  },
+  "suite/scripts/build_dist.ps1": {
+   "sha256": "76786a61a7717f4b3c9266712ab6ed782e2d7231d296f1bb0f9869405df8b83b",
+   "size": 10481
+  },
+  "suite/scripts/build_installer.ps1": {
+   "sha256": "c916fdb9f45fd3b59c54dbc08891080bb903532168828f68d41aecdf57efb5e9",
+   "size": 7283
+  },
+  "suite/scripts/build_song_boundary_preview.py": {
+   "sha256": "d37f5e7d0b3b8414c0d2f06ff578a17bf7730774a247cac6a2630a45bc615e6b",
+   "size": 1864
+  },
+  "suite/scripts/build_song_id_confidence_v2.py": {
+   "sha256": "4edaacd137090022015ba3c94fabccbc5d665f1f6e1fb64e76c964094b2922b0",
+   "size": 6756
+  },
+  "suite/scripts/calibrate_timeline_rect.ps1": {
+   "sha256": "3093f890fbd50924f882a589014fe9fe9bb38d468c627146f127ed6111eda7c9",
+   "size": 2107
+  },
+  "suite/scripts/capture_resolve_debug.ps1": {
+   "sha256": "2ae2a4f8fabc686aa37bf9af5a4a3475dcf1b5ffd19e65e2d4c9ed1414d0e8c7",
+   "size": 7625
+  },
+  "suite/scripts/check_hang_fix_sentinels.py": {
+   "sha256": "80969a628faa7d94f90cab82d30fde47fa5327fb844f8e0a30a1b123196b5b79",
+   "size": 2514
+  },
+  "suite/scripts/check_swap_template_match.py": {
+   "sha256": "f526ccd3903ca460c2777caec8c236906064caa4f0f50a8ca5d85f4b2a58f1c1",
+   "size": 2770
+  },
+  "suite/scripts/cleanup_repo_artifacts.ps1": {
+   "sha256": "917760fd5f21d2a5c641a91b1216c977a6e76fc9ac77c092826bf2cc23e189b3",
+   "size": 3420
+  },
+  "suite/scripts/codeix_build.ps1": {
+   "sha256": "df4d444d1be796027a6c3b296c22f3eb92c56ccfee4864923809ce5ce471ebc2",
+   "size": 1892
+  },
+  "suite/scripts/codeix_build_wsl.ps1": {
+   "sha256": "92357c28af9e32a7b052dff149e2e881479b576aa5afb0f444742c840f6573af",
+   "size": 1206
+  },
+  "suite/scripts/codeix_build_wsl.sh": {
+   "sha256": "730f7b44aae4599b2074e486f7877f5b94515486bf5877a9dca1ad7f1d9385a0",
+   "size": 1666
+  },
+  "suite/scripts/codeix_mcp_entry.sh": {
+   "sha256": "df0aa61c44711f49affe95b20c6862fc7a445d41bf27a1c7466e2ff61b6e1ff8",
+   "size": 491
+  },
+  "suite/scripts/codeix_mcp_probe_wsl.sh": {
+   "sha256": "7993ccea2a0aaa261486b353f00dbccfe67372463d036de2ba94dcfb4b946de5",
+   "size": 908
+  },
+  "suite/scripts/codeix_serve_test_wsl.sh": {
+   "sha256": "eee5b352d205969006fad6ff20edb32532a8c0f2b8a16e873b479feacf071507",
+   "size": 341
+  },
+  "suite/scripts/codeix_serve_wsl.sh": {
+   "sha256": "443f3a8fbd286980f4d32d3ba7de10755b5e25adc653df0b16c61a5a12597cd3",
+   "size": 496
+  },
+  "suite/scripts/commit_gate.py": {
+   "sha256": "7afb6846b4b137a0fd94efb32d061ebd1b7a5f804bf6cee09da3c8dfbae28645",
+   "size": 6659
+  },
+  "suite/scripts/compound_per_song.py": {
+   "sha256": "f1f60282b16e0a51d16fc13ae43b9c68b137b44fc599eae0b739ce8417ddf67e",
+   "size": 3464
+  },
+  "suite/scripts/cursor_bar_persona.mdc": {
+   "sha256": "b2f32d46a6aec3973507330689433079633d968d9b20d029890ca888cd8a331c",
+   "size": 15631
+  },
+  "suite/scripts/daemon_runtime.py": {
+   "sha256": "ae46cf3bd787f67cdb8256744b3da5847518ee6193e66c5e24dd54949f4bbf4b",
+   "size": 12482
+  },
+  "suite/scripts/debug_beat_overlay.ps1": {
+   "sha256": "9ef90316e01c9bad592ee2b1aebc2e388e8e998aed6f4a4d5d5c2034df614a42",
+   "size": 29215
+  },
+  "suite/scripts/deploy_and_hard_reset.ps1": {
+   "sha256": "ba6637271977f9d97bdaa7136fdbb8a8a22d6b4300aa6a0c39e370ad5ffa98d1",
+   "size": 29274
+  },
+  "suite/scripts/deploy_edm_motion_probe.ps1": {
+   "sha256": "703b5cfffd9acc0d0ae75d6f3897ea88a69438c97b3517d02c0c267f7821d5ff",
+   "size": 6585
+  },
+  "suite/scripts/detect_songs_from_fullset.py": {
+   "sha256": "ce22ebfcef66f1f0239c3e3700e848807db63ebae6cc2c3131dc6fff99d24a5f",
+   "size": 2836
+  },
+  "suite/scripts/dev_tooling.ps1": {
+   "sha256": "095f67f750a89f496a2c4a1fbec66be0441121a5b1ed7c3dbfa6eace95f068df",
+   "size": 33003
+  },
+  "suite/scripts/diag_multicam_angle.py": {
+   "sha256": "f784b4a05f64cbbf1671c3e46b88a4f02fcd3ffb42e127a1af970b890dd8504f",
+   "size": 1920
+  },
+  "suite/scripts/diag_multicam_source_timeline.py": {
+   "sha256": "c4dc239ba1ba13beba191f2cf71bff65a220ba563c335eeb2d51da392e97197a",
+   "size": 4804
+  },
+  "suite/scripts/diag_resolve_scripting.py": {
+   "sha256": "65c18b7fdb84c0995e7134b9d40654eae307120fb12b5531d8d29a01b3d38219",
+   "size": 5224
+  },
+  "suite/scripts/diag_scope_audio.py": {
+   "sha256": "3c9a96040a017fa5ff6df56a5ecab255ff0d1fc66113435fa54d450994dbb684",
+   "size": 1855
+  },
+  "suite/scripts/dsp_worker_daemon.py": {
+   "sha256": "0c6b6211a2f4488cf61a718b13eca906f09e5d679050b1a99c3824161ca147ff",
+   "size": 9329
+  },
+  "suite/scripts/edm_ui_audit.py": {
+   "sha256": "2c5f9a97bb9a906b5f39f0e5bf9efa3a081a64ab519ef4c3ae963b313d94b2be",
+   "size": 408
+  },
+  "suite/scripts/ercp_http_mcp.py": {
+   "sha256": "14989b070ff63cef6725db2bfd646c853ce3f3cd59c2939a806526279556a58b",
+   "size": 2090
+  },
+  "suite/scripts/ercp_mcp.py": {
+   "sha256": "be31e58b4982dc0f3f917e2afc3b8bcded214f53617484c7deebb5680e1e43ae",
+   "size": 51576
+  },
+  "suite/scripts/ercp_rollback.py": {
+   "sha256": "ad2c30b72355136b522045abfdc5bf3e2b384ee39dd19a725d257900687bbdde",
+   "size": 1163
+  },
+  "suite/scripts/export_cue_training_pool.py": {
+   "sha256": "da240ede2341bcc6cff42d590b7ad230ab8bc58b524a1708d4f80176c3835f3b",
+   "size": 4817
+  },
+  "suite/scripts/export_resolve_project_drp.py": {
+   "sha256": "bf2fb4492f677c2fe1e299f533d818ddf5bc24ff13b24d349673a67ac52e6bc8",
+   "size": 8878
+  },
+  "suite/scripts/fetch_structure_priors.py": {
+   "sha256": "55eba488ce0ea36ed9628752bf3727fec27a0584d407cce0a285b32439a733da",
+   "size": 2638
+  },
+  "suite/scripts/fusion_zoom_swap_daemon.py": {
+   "sha256": "61cce6c2e4a426968fc525f6bc9c3d3c3afbe49be2dc06efe08fbc222f6286fe",
+   "size": 6623
+  },
+  "suite/scripts/gen_ahk_symbols.py": {
+   "sha256": "424e1d8c98ae377b3bd1cf5aeb07e458957fb8c6ca071de4c91d8cee64e25654",
+   "size": 3945
+  },
+  "suite/scripts/gen_api_lies_ledger.py": {
+   "sha256": "1890e1762b07cd96ee607bd377419e1e1b0941d836b4f4434013ceef32ef7a72",
+   "size": 5813
+  },
+  "suite/scripts/gen_code_nav_index.py": {
+   "sha256": "fae5a8ca0c8e7d67cb36a064d80150ba76e7b8265ac65e585d460ccb1dc42d8d",
+   "size": 7273
+  },
+  "suite/scripts/gen_function_wiki.py": {
+   "sha256": "69138dca860df1edfafe3eec8612346f0081504158523bf1077576c584420123",
+   "size": 3444
+  },
+  "suite/scripts/gen_repo_facts.py": {
+   "sha256": "350db854e2d6f90c7bfe1791258eac9b237a12589422354b872f0b769dd8b01c",
+   "size": 3425
+  },
+  "suite/scripts/generate_allin1_pseudolabels.py": {
+   "sha256": "2ab40292cb531e386642bf3605e711f0fdde2789939c282007ae64fadde97d78",
+   "size": 9437
+  },
+  "suite/scripts/generate_contracts.ps1": {
+   "sha256": "cb03fb67a2105c237df1e98b5edaea991cc8b23b4c043f51b784ddb59c27311c",
+   "size": 5554
+  },
+  "suite/scripts/generate_gig_stages.py": {
+   "sha256": "8ab3e1ee790363b228479524699d149b67af06332d54390c841233daa1e54bac",
+   "size": 4061
+  },
+  "suite/scripts/generate_phase_map_v0.py": {
+   "sha256": "a37e7abcc967cc46dcdbeb0bb6e2e000e4e2178ec2392a06f777509d9530dca0",
+   "size": 5481
+  },
+  "suite/scripts/gig-panel.ps1": {
+   "sha256": "52ac8d08e7ac7703cc4abad7abe1040c362ff578e0b3e8c563ecea624e150e3e",
+   "size": 1248
+  },
+  "suite/scripts/gig_advisor.py": {
+   "sha256": "f02c6692b755868b3dfc6f7e1de3b13516a57855419f18afacdc19f728cbe6db",
+   "size": 14893
+  },
+  "suite/scripts/gig_analytics.py": {
+   "sha256": "06b68908ab71e9a7a044b236a5a70875cce61b01102bd40de602e812f3b54fe9",
+   "size": 27761
+  },
+  "suite/scripts/git-hooks/README.md": {
+   "sha256": "cdcd2dd7a6985f0bb1c8994228734111dba6ef6b6403561c4aeb1e8d32de7a47",
+   "size": 549
+  },
+  "suite/scripts/git-hooks/post-commit": {
+   "sha256": "4f12d2bcbaa0f1ba623b27a2effb45f8e4b99ae05184a29cc1cbf73b1fb64123",
+   "size": 422
+  },
+  "suite/scripts/git-hooks/post-commit.ps1": {
+   "sha256": "d3508c810f03d281c2a40405e2d6a306ea00bffa722cd17ef0988a594fbdcf13",
+   "size": 316
+  },
+  "suite/scripts/git-hooks/post-merge": {
+   "sha256": "133d66d8e5df21f17c668cd56eda1f829baa47226ecfc3dd6df308541a518fe1",
+   "size": 417
+  },
+  "suite/scripts/git-hooks/post-merge.ps1": {
+   "sha256": "f2b0393d1385b0f648f8ff6670acf9c3eb78d3f3b121b5e02372cf9cf55af641",
+   "size": 315
+  },
+  "suite/scripts/git-hooks/pre-commit": {
+   "sha256": "ca9731f589993d53b79291e138b639331b74fbb9520003aef1b74f8022305729",
+   "size": 115
+  },
+  "suite/scripts/hard_recover_resolve.ps1": {
+   "sha256": "c70618136890493d5f85bc9da8b56ef9f8daf32076904059d9b5d764ea8b9d52",
+   "size": 3059
+  },
+  "suite/scripts/index_health.ps1": {
+   "sha256": "e64ade1caa68ab9a6b6fb2e90fba69182714a799de18b00770c802af1d4c01b8",
+   "size": 5171
+  },
+  "suite/scripts/inspect_audio_mapping.py": {
+   "sha256": "26eb5dcd4867e1e70e9e14eed7d7935392a7648221b437eb46c259287d65fee4",
+   "size": 1960
+  },
+  "suite/scripts/inspect_cue_manifest.py": {
+   "sha256": "8ab268af714bfee7ff15918fc033529f171daa4a6e57529c9f18d36c143a37de",
+   "size": 2237
+  },
+  "suite/scripts/install_es_cli.ps1": {
+   "sha256": "742640537950310171ac5daf2d18e03dee98d07a32cd2b220fc0b1cee67544c0",
+   "size": 1140
+  },
+  "suite/scripts/install_portable.ps1": {
+   "sha256": "d23a861ab8ce5451774dad7e5c9b7b7a0edb38f0d66ad45fbc0b7f8d6c6e29a7",
+   "size": 2469
+  },
+  "suite/scripts/install_search_regen_task.ps1": {
+   "sha256": "213663ddf3082265096e3a47b982fe23bb8f0433612c1e45b60edb9c1e90b0d4",
+   "size": 2105
+  },
+  "suite/scripts/install_workflow_plugin.ps1": {
+   "sha256": "bfa17d4c87bc4d98fa10d925166efc53d74a6ffffe32bfe9b7864bb02ccccbd7",
+   "size": 2439
+  },
+  "suite/scripts/installer/lite/EDMMulticamSuiteLite.iss": {
+   "sha256": "dcc2654873d36bba85eb7d35b69aa9b8ab938e1c3dc4e3a3c5a08de2f01965f9",
+   "size": 6115
+  },
+  "suite/scripts/installer/lite/__init__.py": {
+   "sha256": "1cd5c10ceb622642bf1cfea6e73dad87e124cb236ca11a999e55c3aab326a445",
+   "size": 67
+  },
+  "suite/scripts/installer/lite/build_lite.ps1": {
+   "sha256": "35caec612abade512515a4412ad775ea6dc6ad733d89f263866e7a4f60112341",
+   "size": 20529
+  },
+  "suite/scripts/installer/lite/deploy_lite_side_by_side.py": {
+   "sha256": "c7f4461ce5da0358cb1d175dff17a16130d670a7c33babccaa81ff391804b056",
+   "size": 6504
+  },
+  "suite/scripts/installer/lite/lite_config.py": {
+   "sha256": "d07b2d64cfe1b4525897e3285e1b0bf68cb47e33b2abed1e7e8eded78c571feb",
+   "size": 8803
+  },
+  "suite/scripts/installer/lite/lite_post_install.ps1": {
+   "sha256": "cf544bf31ea3cb81645a3b3838a9100836f34b042b3fff116dd90cdefa8f3481",
+   "size": 8535
+  },
+  "suite/scripts/installer/lite/lite_prereq.ps1": {
+   "sha256": "2e142d81a672d7f77c31a5eac8fa646379a439aeafaff03b62245805fb858386",
+   "size": 2944
+  },
+  "suite/scripts/installer/lite/lite_profile.json": {
+   "sha256": "e52163c78139264f0f09ec1861572421a813494268aea87bf5aa6eb0427c9528",
+   "size": 7836
+  },
+  "suite/scripts/installer/lite/lite_strip.py": {
+   "sha256": "c00ec74a56e4e051b080aa14be50e25f3122f9233eaf0aa55da8287b4a19fa03",
+   "size": 15727
+  },
+  "suite/scripts/installer/lite/lite_ui.py": {
+   "sha256": "997192e416704f9098cf0b9532939223bde94c2f2bfc43d66d228074ec596f93",
+   "size": 17687
+  },
+  "suite/scripts/installer/lite/lite_uninstall.ps1": {
+   "sha256": "071c5ecc08bc6dea3d349b37306999e35e1e01b77187e2a2c15ff6c36a80ffb0",
+   "size": 4165
+  },
+  "suite/scripts/installer/lite/lite_verify.ps1": {
+   "sha256": "bb220f3263cac0e0cac3f96826cd1fc84aebce7ecb46db88467661ead3724871",
+   "size": 5613
+  },
+  "suite/scripts/installer/lite/publish_lite.py": {
+   "sha256": "e7c47dd933ceec1de3d71b5ebd0188644a73149b46dfad19310bb74a58c50491",
+   "size": 9539
+  },
+  "suite/scripts/installer/lite/update_pubkey.txt": {
+   "sha256": "d6d7460bffa39798a477c87bd943313d1d3dc9af3cb608df79a811d624e61a58",
+   "size": 46
+  },
+  "suite/scripts/keeb_probe_clone_3.py": {
+   "sha256": "e1955d880c3a99dd9162ef9b5d99852776fcce9f242219755bbad0e7f83e89fd",
+   "size": 3870
+  },
+  "suite/scripts/keeb_probe_coarse.py": {
+   "sha256": "367514cb7d594c76db7817dd2ac0f7f8d0e54149fafe42fb1d26cae3a006cb7f",
+   "size": 1978
+  },
+  "suite/scripts/keeb_probe_coarse_a3.py": {
+   "sha256": "4b55245952d7d8019d04366681cd6745c2b8782172cb3ac628f94cda7dbdd568",
+   "size": 2453
+  },
+  "suite/scripts/keeb_probe_tracks.py": {
+   "sha256": "719226a8031b40d45559dfee0a0bef0536c622ea7db3eab2b5f3020c13217135",
+   "size": 1313
+  },
+  "suite/scripts/keeb_suite_vs_syncaila.py": {
+   "sha256": "651b5a51c3bde23be81dfdc57b7d274480c554dd2803ee230782e6ff06e36bb2",
+   "size": 17654
+  },
+  "suite/scripts/label_multicam_clips.py": {
+   "sha256": "9b2d2065c5aaa3c90bca0fe9c15f7580a8b285bce932ee9b3d2ab9403f0b6336",
+   "size": 4226
+  },
+  "suite/scripts/launch_resolve_last_project.py": {
+   "sha256": "69eea1bea5449d9b395cadffe65ca0a96a0575c56649bf4e30a4e9f265514d50",
+   "size": 23689
+  },
+  "suite/scripts/marker_hot_daemon.py": {
+   "sha256": "20a3c2ff0251c486fc993d67f3dd6d00edbb15b966ea177edcedaa035aa80146",
+   "size": 32932
+  },
+  "suite/scripts/marker_turbo_worker.py": {
+   "sha256": "69a30b7b48f286cb4abf7fd4e58fdf1a981340a8130ab9b2d37447c1f8241f3d",
+   "size": 14637
+  },
+  "suite/scripts/motion_probe_drx.py": {
+   "sha256": "475314bb1656c01ef37a5782811f46cdb888a645b72e04c7232e221f0c416a44",
+   "size": 9107
+  },
+  "suite/scripts/multicam_from_compounds.py": {
+   "sha256": "6f4eb8a04aeeda4fa4a4c2416e95a09657f3b6778452a4908ec4bff2ffb76c97",
+   "size": 2853
+  },
+  "suite/scripts/nav_batch.ps1": {
+   "sha256": "3d7800a3cca88f03121019c1ed38d5b07ca97976592f5d4dc2e9ef64d0eeced9",
+   "size": 1712
+  },
+  "suite/scripts/nav_repo_map.ps1": {
+   "sha256": "7bf90d08c352da08d203e6e1d02839a99f7894ca81c6fa9dbdb81c0a938b7ec1",
+   "size": 1371
+  },
+  "suite/scripts/nav_resolve.ps1": {
+   "sha256": "be9cc37e838b10abdd33f75130149c19524f9bf60bef1b0b4f588ce8bb3f1df1",
+   "size": 3772
+  },
+  "suite/scripts/nav_session_bootstrap.ps1": {
+   "sha256": "48ae038ebadacb2387e9d2d73c1e7f1a7482e0b5691415a47a177a8aa8300d6b",
+   "size": 1260
+  },
+  "suite/scripts/ollama_vqa_server.py": {
+   "sha256": "58f752ff4dade32a5e19a85b22afe3adb4f506534bd4d3194bbbd0dce3a3225e",
+   "size": 19118
+  },
+  "suite/scripts/panel_health.ps1": {
+   "sha256": "1f578d0a293ef77f715541b3ff92e343aff0883b5437227272a94468d406f862",
+   "size": 35291
+  },
+  "suite/scripts/patch_codescope_mcp.ps1": {
+   "sha256": "d704033f56aeb3f72a89f0e44cc825508449a4daecb49a6089b9913f23a8be3e",
+   "size": 2033
+  },
+  "suite/scripts/pe_export_probe.py": {
+   "sha256": "e149038ef408646ae36a17832145459cb1d1cc11e5c22c8d54c262271adb9427",
+   "size": 3048
+  },
+  "suite/scripts/phase_map_stability_and_ledger.py": {
+   "sha256": "45279754850a4f569052d5bfe677615b5317ad412de128a299085e32eb9ed922",
+   "size": 7929
+  },
+  "suite/scripts/phrase_drift_check.py": {
+   "sha256": "df25c6722c5cd5256e21ed5bf733066dc2ba11b8620091b628bb12fe02496d41",
+   "size": 3884
+  },
+  "suite/scripts/phrase_shadow_external_evidence.py": {
+   "sha256": "3c78da33568449db2d5f7ca47bc3752032183b872ed51bda82542a741e0beeb8",
+   "size": 17624
+  },
+  "suite/scripts/portable_common.ps1": {
+   "sha256": "f78246115cde7c42ef8b66533e5cd0a9648a16add8d06ae6584f4f4009e114ae",
+   "size": 10054
+  },
+  "suite/scripts/portable_find_root.ps1": {
+   "sha256": "2db09a60aeb151933ae446585a09b1d476ae34f0c5253c4dc82c8278cd80978d",
+   "size": 358
+  },
+  "suite/scripts/portable_migrate_data.ps1": {
+   "sha256": "e1359c901c3c3b588842ff655d392e389b0036260b0c020b3f5480b643b39db1",
+   "size": 2194
+  },
+  "suite/scripts/portable_off.ps1": {
+   "sha256": "1b5a74afd58f0c9b2ae12e6801b25bb0747aca763b85367e1a4d496f072feb6b",
+   "size": 992
+  },
+  "suite/scripts/portable_on.ps1": {
+   "sha256": "dc02cc6a95f7c5dc8b7a7d245307aaf8b87ba3a57ac64476db357ed6cca1a606",
+   "size": 1789
+  },
+  "suite/scripts/portable_repair_venv.ps1": {
+   "sha256": "478d5e6c703e15464045690efc78106252f5d477962372a54982f99d7017b9af",
+   "size": 3268
+  },
+  "suite/scripts/portable_verify.ps1": {
+   "sha256": "93116ac69ad4e5c2c03983a73fbedbd7d9ea4ed911aea346d47212f73c5aa569",
+   "size": 6279
+  },
+  "suite/scripts/portable_watchdog_launcher.ps1": {
+   "sha256": "22f0ae509bc8e2f057dc49326add23c27ae472b315915899c6f0f80900137be6",
+   "size": 551
+  },
+  "suite/scripts/post_render_pipeline.py": {
+   "sha256": "dee7194481603d040013909b45e85849023beb5d6aceaa3bcae7c4c23b2ca25f",
+   "size": 21084
+  },
+  "suite/scripts/precommit_guard.py": {
+   "sha256": "5502f3318daca08f860b95b06319558225ef11b28dc252b096582b1967d07270",
+   "size": 4155
+  },
+  "suite/scripts/prefill_review_groundwork.py": {
+   "sha256": "1487a21c564ca455ddeb731b32ae87938ba00b008fbd8927415f5e19076ab01f",
+   "size": 5284
+  },
+  "suite/scripts/preflight_search.ps1": {
+   "sha256": "608764b2d261e5ef238a2c0c05b8a3b608d7d7285ef9e4faac622a65cd8e6e04",
+   "size": 3165
+  },
+  "suite/scripts/prewarm_cue_caches.py": {
+   "sha256": "87d5912e591bf8a6fae16c4bae93483b2d6864a3ee5b91fd7246445f9a726074",
+   "size": 4821
+  },
+  "suite/scripts/process_structure_pseudolabels.py": {
+   "sha256": "78be857e7652a24985a2ccc851e053f96077d7305531751296689861cf4e10fb",
+   "size": 4689
+  },
+  "suite/scripts/prototype_api_cut.py": {
+   "sha256": "4cf0bc6bde6c2b881f20923b43548ec15d1b460bc730ab5b8a493ad6a47ee500",
+   "size": 6437
+  },
+  "suite/scripts/prototype_fusion_zoom.py": {
+   "sha256": "695b68ca7ad9ba347bdbb060a6f4e8de024692c570712c31a60bfacb59249dfe",
+   "size": 37478
+  },
+  "suite/scripts/prototype_reframe_apply.py": {
+   "sha256": "1aaee1b28c8d10cf1f53cfb94c889840524567ee5d1ed1a545258a1d1e518d18",
+   "size": 5256
+  },
+  "suite/scripts/proxy_worker.py": {
+   "sha256": "eb45bdd9cd3697cfa0284478184261279bd59860f1b4103d3027cf8763e741b6",
+   "size": 12554
+  },
+  "suite/scripts/pssi_import_worker.py": {
+   "sha256": "b7a671f028c02d46b3337e1f163a985f3dcba61372be2f239224622bd6bace67",
+   "size": 21951
+  },
+  "suite/scripts/ralph_verify.ps1": {
+   "sha256": "515c286b2c7266b6e1cea723ee2efbc2ebe772e97624ca8ee3abbd0810de57b1",
+   "size": 1543
+  },
+  "suite/scripts/re_tools/dz_offsets.py": {
+   "sha256": "55b623917ecfd6b23078a0de9fda0cb12c0c0ff3a32453e7ac9d60b92a362572",
+   "size": 6728
+  },
+  "suite/scripts/re_tools/gate1_rel32_crosscheck.py": {
+   "sha256": "5f5a495d644e0bdc216b74f97645a9fe749f572365545b109ca17a28e278f61e",
+   "size": 2710
+  },
+  "suite/scripts/re_tools/ghidra/gate1_xrefs.py": {
+   "sha256": "fc86fb53dfa3a09f6a0dd78cb06eaac36bf2ec7c1ee71ff02bf881c69ae25b5f",
+   "size": 5178
+  },
+  "suite/scripts/re_tools/ghidra/gate2a_classify.py": {
+   "sha256": "c2b3c6a3541a8c617cf9cd939998ce543e7335189ae6c85840dbdbca61086d3e",
+   "size": 7210
+  },
+  "suite/scripts/re_tools/ghidra/gate2a_pass11_decomp.py": {
+   "sha256": "8d497200edbea844d6ef62441c3c5af9531248c4fcbd0dde6a0b5b96244ba58e",
+   "size": 2193
+  },
+  "suite/scripts/re_tools/ghidra/gate2a_pass2.py": {
+   "sha256": "cb13535d0e3589f81cadc815ccf252ed57291ce105204abfe8e5617178f6e348",
+   "size": 5558
+  },
+  "suite/scripts/re_tools/ghidra/gate2a_pass3.py": {
+   "sha256": "ec63f006b4800d9aec20b47c3d1cc2441fb25f55b340420992a9f37e005a83b9",
+   "size": 5167
+  },
+  "suite/scripts/re_tools/ghidra/gate2a_pass4.py": {
+   "sha256": "3701a92e47a1d22cb0dc035ada530581a9ed4c8c4ad0ba282b7a7aae031f58c9",
+   "size": 5200
+  },
+  "suite/scripts/re_tools/ghidra/gate2a_pass5.py": {
+   "sha256": "e26ed22b67ce214d628c9b1cdb69d6919ac5d7e341927f69929a202e5cee6ae9",
+   "size": 4458
+  },
+  "suite/scripts/re_tools/ghidra/gate2a_pass5b.py": {
+   "sha256": "af0edabd390ed19a41ee235b3903eedee6cc518ae55e77d48424a161b56e3977",
+   "size": 2870
+  },
+  "suite/scripts/re_tools/ghidra/gate2a_pass7.py": {
+   "sha256": "696270605cf63e26cbeef287fdf01cccc05a32d7b4fcf5c3b000eefd945130de",
+   "size": 3343
+  },
+  "suite/scripts/re_tools/ghidra/gate2a_pass7b.py": {
+   "sha256": "68ab680573fd9db782433d2c354d98b134ce20f98cec3659a7426c457ac1e49a",
+   "size": 2488
+  },
+  "suite/scripts/re_tools/ghidra/gate2a_pass8.py": {
+   "sha256": "a4bd8f1506d0f66a7324c25149a355b37bc7eb2f04a5e934568051864672968b",
+   "size": 2445
+  },
+  "suite/scripts/re_tools/ghidra/gate2a_pass9.py": {
+   "sha256": "78002c3ae74fc7ebb550ab72048ae0af270da65bb0e59ce37864af447b7d77ae",
+   "size": 2600
+  },
+  "suite/scripts/re_tools/ghidra/phasea_decomp.py": {
+   "sha256": "a8b982465524dd89c998951b445efd6ab3da03bb04a1fc53db1e260cc599c077",
+   "size": 4217
+  },
+  "suite/scripts/re_tools/ghidra/phasea_decomp2.py": {
+   "sha256": "cc54747d1cc4ed0c928423998ef0ebf371b5e4da83e01cc550a867eb5b2e37c1",
+   "size": 2446
+  },
+  "suite/scripts/re_tools/ghidra/phasea_decomp3.py": {
+   "sha256": "6a41cbebf60c161c1a80cf60211620a5b0042cc442eef983b348e32fe3e4d9f5",
+   "size": 2100
+  },
+  "suite/scripts/re_tools/ghidra/phasea_mc_xrefs.py": {
+   "sha256": "9a90f8a26edd4ce81006d802815c6f19f755b95df0cfa7e29a7bfae7becf347f",
+   "size": 4323
+  },
+  "suite/scripts/re_tools/peutil.py": {
+   "sha256": "a62edbb64dd148d53c5100d6b0e0d0d4ee15a3f86736bbdab1e32000bca3e326",
+   "size": 6688
+  },
+  "suite/scripts/recover_resolve_scripting.ps1": {
+   "sha256": "d7dc8c35ee449a0f42e7e3d0655a1a6b988a9bcf7f49540105978a382a6ee25f",
+   "size": 3174
+  },
+  "suite/scripts/refresh_grid_markers.py": {
+   "sha256": "307fb04ebc2684d10a665a8c01f70bbdbdb5f2012c85870dffb79760d938f111",
+   "size": 1089
+  },
+  "suite/scripts/regen_all_indexes.ps1": {
+   "sha256": "638043398984a3f798613cd8b6c411e9e72ca1b315d3e991d8cf2e36e000ffcc",
+   "size": 1034
+  },
+  "suite/scripts/regen_code_nav.ps1": {
+   "sha256": "f740112182e1f2bf3ad852717dffa62b6629a1b276210a4942817850c1407d8d",
+   "size": 755
+  },
+  "suite/scripts/render_qc_scan.py": {
+   "sha256": "42cc7abaaa15b2ded1fcf6f7b95064a6fe154e51577e9d18d846620aef44dcce",
+   "size": 18787
+  },
+  "suite/scripts/render_structure_validation_plot.py": {
+   "sha256": "bbea3bce9ee44844a04eef63a9d925a3ff2330e51f7ea6fe72ae74704092a936",
+   "size": 1626
+  },
+  "suite/scripts/repair_timeline_gaps.py": {
+   "sha256": "6ad9c00c5690cd40d9d27e2a0444ab8245de67791965539d2b208c65e979c54f",
+   "size": 8360
+  },
+  "suite/scripts/repo_storage_audit.ps1": {
+   "sha256": "f4c3f53931cb40026d063513f83d52fdf5285ab29a3a115396eb3ddbd3f91b44",
+   "size": 3599
+  },
+  "suite/scripts/resolve_bar_taskbar.py": {
+   "sha256": "7e32c0e26b6fe6ce97515b387136e60d905f6b5c6ec065417070ab85dfb1d4b7",
+   "size": 7681
+  },
+  "suite/scripts/resolve_bootstrap.py": {
+   "sha256": "a4b5560d86d62f9589106b09eac8f3b49ff4e3cd090fca39e2bb1db285a9dff6",
+   "size": 2744
+  },
+  "suite/scripts/resolve_direct_script.py": {
+   "sha256": "76a10a8c20300d38ff96fc7376c5ca30f3ddb9ece7711e19033fbd35d1f48e56",
+   "size": 3893
+  },
+  "suite/scripts/resolve_process.py": {
+   "sha256": "5b948a8532101a7ee5b3f52bfbbad3f96eb57da53d6a8f7779e9d48f9da90176",
+   "size": 12014
+  },
+  "suite/scripts/resolve_relaunch_probe.ps1": {
+   "sha256": "6c850434cd7a23fb6ef526f49d777a087841cad64893a25eb45503cf00a015e5",
+   "size": 2668
+  },
+  "suite/scripts/resolve_watchdog.ps1": {
+   "sha256": "a4dd5d30e8f9e54438c84ce46b396063151da5afae1a265e026fd3b0962c414e",
+   "size": 52416
+  },
+  "suite/scripts/rewarm_review_prefill.py": {
+   "sha256": "5f3fa657cb78941055ca62cb2de4fa7eb34f3d75fb5eb0e76be9a4223f8ed3f5",
+   "size": 16118
+  },
+  "suite/scripts/run_all_timeline.py": {
+   "sha256": "8c0c336769d42d81dfd8a849a3a3f24ff46117fdd72979590e477c46e59e12d0",
+   "size": 19496
+  },
+  "suite/scripts/run_panel_local.py": {
+   "sha256": "09b04cfd35aa459b9b5b5f734ea2685a1e8f2948937768ee2acb448c59d55787",
+   "size": 508
+  },
+  "suite/scripts/run_pass.py": {
+   "sha256": "db77143c56935315a2ee5e4fe9e7663fe9f6482b77e6f9c39f5d1f8486680f56",
+   "size": 79346
+  },
+  "suite/scripts/run_phase_c_pipeline.py": {
+   "sha256": "3f638a76e0196f6f36a2bcb10b0271f6844312ad0b10e6acee73cc027fed36bd",
+   "size": 10822
+  },
+  "suite/scripts/run_structure_model_inference.py": {
+   "sha256": "9ca0065044a90335e9c67cbc9db90fcfc64f7f41ed095df88ef1e759422e70b1",
+   "size": 9331
+  },
+  "suite/scripts/run_structure_model_validation.py": {
+   "sha256": "de3ea0d665e92fa373477791c702ada5e25df1afb369712fa2cc67a53d6b698c",
+   "size": 4246
+  },
+  "suite/scripts/run_syncaila_lite.py": {
+   "sha256": "989de2875f5cfd75d60b2b2d8da0900b0261da3012f046352a2fb34487fefae1",
+   "size": 1483
+  },
+  "suite/scripts/scoped_search.ps1": {
+   "sha256": "f5082f0b26c73fc90fc99359f2347ad5bc04f6d4cc65bd0c0cc920467d6c2193",
+   "size": 1239
+  },
+  "suite/scripts/scoped_search_lib.ps1": {
+   "sha256": "cf832d240967649e20549e14be8974e0c4082eb5d6357613cbc1b682c1022437",
+   "size": 3712
+  },
+  "suite/scripts/search_debug_ledger.ps1": {
+   "sha256": "65674b2ae2de39b5f6cf57f38b871102a4130ce523061aa5ff11e36eca3308ab",
+   "size": 1747
+  },
+  "suite/scripts/search_utils.ps1": {
+   "sha256": "2a3b28735b60f2c526d9256d399bdb9b5059bae99355a57765df48683a81a937",
+   "size": 2812
+  },
+  "suite/scripts/setup_worker_env.ps1": {
+   "sha256": "646289c8ab626fda6681adbbb08145fc6c93396c21bcaa1450da3c16873a28ea",
+   "size": 1190
+  },
+  "suite/scripts/smoke_gpu_env.py": {
+   "sha256": "bc02db51d073d062027ea4ec20d1c8a8aac11e7c7c713d661c49838f8f52ff9b",
+   "size": 1092
+  },
+  "suite/scripts/snapshot_baseline.ps1": {
+   "sha256": "57d86b42ce46e7b7c8b81b4823ef68fdb5fe591a9a29ceb8b4af30735773d994",
+   "size": 4149
+  },
+  "suite/scripts/snapshot_ercp_baseline.py": {
+   "sha256": "f91a4489b04a05bbc0d2b584038699814be44b7b04f6998bead7e550d7479cc3",
+   "size": 15007
+  },
+  "suite/scripts/song_id_worker.py": {
+   "sha256": "dd0f679c6972f78ebc9a2318398ddfa72a92994b5cb9d951fc9085f50aaa7eb0",
+   "size": 16628
+  },
+  "suite/scripts/songs_to_setlist.py": {
+   "sha256": "9d680cf4a9de01257998fabbc9c5e0a93c356d0b6e017f6ed312e3efe22858ee",
+   "size": 2223
+  },
+  "suite/scripts/stage_hunks.ps1": {
+   "sha256": "0c18553fe7b52a48849f48a158e47fdd7af3cbee1abe63468944874db60f7cd9",
+   "size": 4126
+  },
+  "suite/scripts/start_ollama_vqa.ps1": {
+   "sha256": "db264f6bcd26f441612c86b3405e6aadfe10d192ca05a0edb7cd9199ca7ed857",
+   "size": 2999
+  },
+  "suite/scripts/start_resolve_watchdog.vbs": {
+   "sha256": "8437f0878781d043ecda38e1d5dbfb4a62192c2b5d505d41176cd1651628e135",
+   "size": 451
+  },
+  "suite/scripts/structure_confidence_baseline.py": {
+   "sha256": "e09ca3e59efba0c8f2a395e8d3099fe16baf55ac04db6d10004e36e8b5e53d43",
+   "size": 19554
+  },
+  "suite/scripts/structure_review_lab.py": {
+   "sha256": "704211cf31c54cebc50f6f45d7f89ed807d328f8b1cfdcc59053e905c70bb2bc",
+   "size": 192481
+  },
+  "suite/scripts/suite-off.ps1": {
+   "sha256": "b49ee4bbef342b3db0eb42adf0b17fe8086764d33ec0655ad68091f9a978f276",
+   "size": 784
+  },
+  "suite/scripts/suite-on.ps1": {
+   "sha256": "87d7bec51f0de117a4925e7ea5b0f55d04a49c0eb80aa88628e4b9c0a8f71020",
+   "size": 2773
+  },
+  "suite/scripts/suite_debug_bundle.py": {
+   "sha256": "78e58fcff0bd6c1e0a2c44a032eb06f5d42746f6c1b340117ab28594ec1e941d",
+   "size": 10264
+  },
+  "suite/scripts/suite_doctor.ps1": {
+   "sha256": "634fbb97e35be330c82b1235874596e8e471d7fd2225174393e73763e71a60b1",
+   "size": 41654
+  },
+  "suite/scripts/suite_health.py": {
+   "sha256": "ba6ed2c2a01833bdb8d6be88d8d3ca77ca424300f87e6bc6a3203e1bf4130ee5",
+   "size": 13425
+  },
+  "suite/scripts/suite_invoke.py": {
+   "sha256": "498385a6309ed46546fab3e88e43f372d9fa3bd1714e70e551071ecec895514d",
+   "size": 16542
+  },
+  "suite/scripts/suite_lifecycle.ps1": {
+   "sha256": "743538e5b7454378b89896f3138dc363da6582cc2580e4adc78bf901f0b13485",
+   "size": 107621
+  },
+  "suite/scripts/suite_log_recent.py": {
+   "sha256": "066174d8cb21d31fb2b3879a13ae6ce925e8586df7a1f15ea075296294321b5d",
+   "size": 33786
+  },
+  "suite/scripts/suite_parity.ps1": {
+   "sha256": "db2838d0cda3a6fe05e046123d056610bca3d0f9599d52cde02b1ec3e520ef7a",
+   "size": 7550
+  },
+  "suite/scripts/suite_wedge_probe.py": {
+   "sha256": "1c3eda295a86ac52c880660400a7c3680f6c5fa2d625ff2b84f76d32d38749ae",
+   "size": 7728
+  },
+  "suite/scripts/sync_dev_plugin.ps1": {
+   "sha256": "3f17b6f9e997c9eceb565f759f072dd9bb01cff1ccb56a88ffdaeb530915ee53",
+   "size": 1494
+  },
+  "suite/scripts/syncaila_ui_probe.ps1": {
+   "sha256": "bc15d89d33932fb4533b5ab021ac4f670a2f32b81f85ca172fb429cb55dbfe04",
+   "size": 5017
+  },
+  "suite/scripts/syncaila_uia_action.ps1": {
+   "sha256": "8a582c55f73fda1fad43aed439c0e09153fbb8ccd2a1111984a721615d368291",
+   "size": 6109
+  },
+  "suite/scripts/tail_angle_inject_probe.py": {
+   "sha256": "dbd2ebd4bdd69faedadc0c01306c589743292602c1ca63527eb4618d49cf3c7e",
+   "size": 3080
+  },
+  "suite/scripts/test_p4_lane1_ahk_remediation.ps1": {
+   "sha256": "c107731f20c80e9310c1b2e322b4f020a5385850ede13eb3e1799b52fe403d7b",
+   "size": 10115
+  },
+  "suite/scripts/test_refine_completion_message.js": {
+   "sha256": "dc3d32877daa7478f677b66e12b345885ac323424ec738334080a1aa80c69f8e",
+   "size": 2816
+  },
+  "suite/scripts/test_worker.ps1": {
+   "sha256": "b6d9e8a249831de9cca3fb457d4bc5112247a51942dc13dc0f1926588d0d21d5",
+   "size": 1242
+  },
+  "suite/scripts/tier2_code_nav_mcp.cmd": {
+   "sha256": "6d5d4600ac0f122fc5afc1c74ff5de6adcf8e530dc8f20d30f0dd4c64cc13192",
+   "size": 475
+  },
+  "suite/scripts/tier2_code_nav_mcp.ps1": {
+   "sha256": "cf87b507276a4b795d83133a9a71f41d2323cc776833a6b798809b91cfd44096",
+   "size": 329
+  },
+  "suite/scripts/tier2_codescope_only.ps1": {
+   "sha256": "d5a3955bed91e7645fb95d5bf96be89b6afa70b19071dc0bacf9208506951b53",
+   "size": 573
+  },
+  "suite/scripts/trace_reconstruct.py": {
+   "sha256": "0a6ce0237f85c2abcb6903d1d332170bb772d4aed78633e043ac5dd9200f0b75",
+   "size": 15953
+  },
+  "suite/scripts/train_structure_model.py": {
+   "sha256": "f3701a42a04bf0835f35790e93ad1af919667cfa51cc9b1ee483b1593daa3775",
+   "size": 12868
+  },
+  "suite/scripts/triage.py": {
+   "sha256": "c33a5fc0c290e97469d155e8052d99bea35f992497d13d1ee36e0c6da01ecab0",
+   "size": 6389
+  },
+  "suite/scripts/triage_view.py": {
+   "sha256": "20e982272142138918321cce0243600137103330a9f4f927691b660b6d12e591",
+   "size": 18511
+  },
+  "suite/scripts/ui_auditor/cli.py": {
+   "sha256": "7063cd4e001e3c30bac0264db8391e189c6b5e63f800fd81a2b73cbbf8cf28cc",
+   "size": 13827
+  },
+  "suite/scripts/ui_auditor/html_scan.py": {
+   "sha256": "3c8951511c799dda84285cf4b85e83e8033a5b962d8f5d2f0948801eacc1e25b",
+   "size": 10100
+  },
+  "suite/scripts/ui_auditor/layout_map.py": {
+   "sha256": "9f7113f40444e9895af8317c9924b2f9c0fceceddddd5f6cb506828cbca5f104",
+   "size": 7455
+  },
+  "suite/scripts/ui_auditor/rules/__init__.py": {
+   "sha256": "2b1233fa6df48972d414ccaf47c848c8dd5bbdc441f4dd4910d6763da6bd54ac",
+   "size": 245
+  },
+  "suite/scripts/ui_auditor/rules/keyboard_a11y.py": {
+   "sha256": "34ec1e23007097d4385c7d2f818d64d2435662c565239e33580c0d08c757f0d6",
+   "size": 2105
+  },
+  "suite/scripts/ui_auditor/rules/runtime_obs.py": {
+   "sha256": "8cddb8c5fb94e69d3e06f328d7162804ec4371bf762f38f9a8589ff11cbf0bad",
+   "size": 2521
+  },
+  "suite/scripts/ui_auditor/rules/state_perf.py": {
+   "sha256": "8bb5c67c7e3b1349ec98c0aff0f20a10b4a7c016e740e55cd2eb2979af9408e3",
+   "size": 6428
+  },
+  "suite/scripts/ui_auditor/rules/structure_own.py": {
+   "sha256": "0a163be396119f463607207ae9c394c112abfad0192273b64c2b923602eaf30e",
+   "size": 3722
+  },
+  "suite/scripts/ui_auditor/rules/task_qol.py": {
+   "sha256": "45656af9e0475fb4927c058920beec7ab67b7617d2c6d91687c181490481d33a",
+   "size": 1913
+  },
+  "suite/scripts/ui_auditor/rules/visual_clarity.py": {
+   "sha256": "0e4ee9c099235409c24d1e3f6603676add5021f288d703de56d9e737c879c713",
+   "size": 3141
+  },
+  "suite/scripts/ui_auditor/rules/zero_regression.py": {
+   "sha256": "0401d5397daa19edae23984f01569ffcaa57e7e6222d283581cea7f061459cdd",
+   "size": 1549
+  },
+  "suite/scripts/uia_inspector_probe.py": {
+   "sha256": "cd2d499c0cea5f5a36c5583498b8f4169103017daf5391af54d134d1b8532d21",
+   "size": 3706
+  },
+  "suite/scripts/uia_openfx_discover.py": {
+   "sha256": "9e87a54ea3c893ac20541bb35cf623716ebffec48f86a6ee5bb9106df839339d",
+   "size": 42546
+  },
+  "suite/scripts/uia_swap_spike.py": {
+   "sha256": "ea6d668d71c7054fc3ce087adb0965571945d339fc0eadd0623e1da40eb60fd7",
+   "size": 2194
+  },
+  "suite/scripts/uninstall_workflow_plugin.ps1": {
+   "sha256": "e5b1be1ec5fe895a81644be7917bc7f53b7b91cf0ab26461eaa66fe1c4330d68",
+   "size": 1947
+  },
+  "suite/scripts/validate_agent_routing.py": {
+   "sha256": "09db8491151e21fabffe890e96b299d88cc1994eb85abfa56c630e0aa385ea9e",
+   "size": 9931
+  },
+  "suite/scripts/validate_ahk.ps1": {
+   "sha256": "b4975b81cd67678179953304475a2b38cbd41626dba9dc7f57a0762923798ce4",
+   "size": 1365
+  },
+  "suite/scripts/validate_ps1.ps1": {
+   "sha256": "d4f355729337dcdccafb4361d16e802406fc68382a6955869f16583c2012b2d2",
+   "size": 712
+  },
+  "suite/scripts/validate_resolve_sync.py": {
+   "sha256": "fb29231b47cd744d4b42a554a60670ac98f1597ef061dd98b23a5c478bdcc4d8",
+   "size": 23052
+  },
+  "suite/scripts/verify_cue_rewarm_parity.py": {
+   "sha256": "283e203dbd7294f49466da0f961318d6bd8728de5967d32c77258e0d4bc8d8bc",
+   "size": 1138
+  },
+  "suite/scripts/verify_fullset_slice.py": {
+   "sha256": "cdfe687830ec910317b9d7b1517582cec9a368605efcd87284d81c5f0561b539",
+   "size": 1959
+  },
+  "suite/scripts/verify_gate.py": {
+   "sha256": "1aa466b79fab2fe27cd02bc5985e96782f59000dab295671e695837fe1176122",
+   "size": 26147
+  },
+  "suite/scripts/verify_gate_quiet.ps1": {
+   "sha256": "592419b57843fd71948650fc3673e9901c0365dbc2374324e39cec6322cf0aec",
+   "size": 1066
+  },
+  "suite/scripts/verify_lightweight_runtime.ps1": {
+   "sha256": "8997d23356358f19bdaf0b0ed2efbe743eb5ecc281322a70131a21ed8dd67778",
+   "size": 2989
+  },
+  "suite/scripts/verify_portable_install.ps1": {
+   "sha256": "5b19431f955df97ef1e39551c85400fc229fe155f59f6258d6791dc82d5bfa02",
+   "size": 1909
+  },
+  "suite/scripts/verify_portable_parity.ps1": {
+   "sha256": "9b051977eb8cc7a8258a94cf74fff13df5d5a6db5a7610da29810aa753bf1efc",
+   "size": 2268
+  },
+  "suite/scripts/verify_release.ps1": {
+   "sha256": "8503beac8d136b116a2e640b60c6c85034a75c2467f3bd2cbf96f17d6baaabf2",
+   "size": 10788
+  },
+  "suite/scripts/verify_wiki_contracts.ps1": {
+   "sha256": "4015d1b9b3be2b84dba25a07dcfc9352d2f792bfa22d3dba1a5c0c4d64ccd4c7",
+   "size": 2854
+  },
+  "suite/scripts/visual_smoke_multicam.py": {
+   "sha256": "4382f60b46f68d027022463918a2f4bd10b99128b744fabed046c0c032cefc52",
+   "size": 5925
+  },
+  "suite/scripts/vlm_tunnel_watchdog.ps1": {
+   "sha256": "039a0c779567e03c1811c27da73bd7201c46179ccd45b2083190239ee7db4463",
+   "size": 3401
+  },
+  "suite/scripts/warm_ssl_embeddings.py": {
+   "sha256": "ae9b6d4ed933aa5f11f82211c37de962c02b68102b2159c66caf0a8684affc6a",
+   "size": 3055
+  },
+  "suite/scripts/watchdog_resolve.ps1": {
+   "sha256": "5dece46a76af3d0d1ef37e1617a2bd3c16e08213c4752529dd6c475b5b484192",
+   "size": 3176
+  },
+  "suite/scripts/windows_runtime_watch.py": {
+   "sha256": "0ddee230cf6506b2f73a742cc35f7eb954a51c44f224a7f19a92501a77075437",
+   "size": 20049
+  },
+  "suite/scripts/wmcp_benchmark.py": {
+   "sha256": "55891959ad58a4b9d695099b35e77150c9a21b39f1afc4e59dab2ff82f6c6422",
+   "size": 4591
+  },
+  "suite/scripts/wmcp_calibration.py": {
+   "sha256": "67175f8699d555be6d3430a25ddf10eb0844b91a3bc0afc8786950e4fd83d877",
+   "size": 40265
+  },
+  "suite/scripts/wmcp_gui.py": {
+   "sha256": "36dda492a82389dfda4b9774d9c43a055908c357a50cc003e94e7745b9f5c743",
+   "size": 25182
+  },
+  "suite/scripts/wmcp_live.py": {
+   "sha256": "deae62ae21424ffc605c289665a02f1efcd2994e7806dcd933d3561d085b9442",
+   "size": 19387
+  },
+  "suite/scripts/wmcp_multicam_verify.py": {
+   "sha256": "61450cebb556ebb50a7b5d7a381a353175ce9a52c499248ab1b05cd685624c81",
+   "size": 28929
+  },
+  "suite/scripts/wmcp_observability.py": {
+   "sha256": "4d0ec2634c041c39d452aa6f1a064cdfc817d7fd5002d8b614a9370fcc8304de",
+   "size": 11778
+  },
+  "suite/scripts/wmcp_runtime.py": {
+   "sha256": "7bf0da3e2a95afb6dd74f0d3a1955d9a95e35a5d5b4da10bf5c6ac442426995d",
+   "size": 33408
+  },
+  "suite/scripts/wmcp_smoke.py": {
+   "sha256": "eab70eadbceff0d0b6185a636dff82bd7e65fde8f5be2e67899ae9b7d3032640",
+   "size": 5265
+  },
+  "suite/scripts/wmcp_visual_verify.py": {
+   "sha256": "ae52c5d99cf36499b0ee45c82d6f2d5ca71dc7da2f5b6dc0ab2d9f2d28964a39",
+   "size": 25180
+  },
+  "suite/scripts/wmcp_win32_capture.py": {
+   "sha256": "b00d14283e563ce8acba1dbcd1053ab46ecff60f13339f13b4ba784f27fb470d",
+   "size": 16910
+  },
+  "suite/scripts/wmcp_workflows.py": {
+   "sha256": "d56f66a03f7991189259c28cf5c5e16ff709fed43a7359a6ae080705e87e07e7",
+   "size": 31252
+  },
+  "suite/worker/AGENTS.md": {
+   "sha256": "111f5496da026562570f5767ec2ea3180075bc36e81026d82a2cc35ac66dc48f",
+   "size": 2198
+  },
+  "suite/worker/allin1_adapter.py": {
+   "sha256": "2cd0579d068045a36f9d0e290f144bdbeabd15cb35a61f659c32ce6d7de5770b",
+   "size": 200
+  },
+  "suite/worker/analysis_core/__init__.py": {
+   "sha256": "10d9ef4f180f590581726096964e7466b4c546828b6dffc2b0f6bfea9f5052ed",
+   "size": 5074
+  },
+  "suite/worker/analysis_core/allin1_adapter.py": {
+   "sha256": "64806b355051b97822b9d5e03f3fc0894e721a41d741e4dd0d6dc99355598416",
+   "size": 9869
+  },
+  "suite/worker/analysis_core/analyze.py": {
+   "sha256": "6d2cfc09b982fa4bf6a27db5715a35e44366f966e3e067482da0d5e2b63d6631",
+   "size": 25363
+  },
+  "suite/worker/analysis_core/analyze_full.py": {
+   "sha256": "7327c7d6dc32d1f6583b9a510468c6bbf283dda3e298111c8c79e4b3e4712243",
+   "size": 18981
+  },
+  "suite/worker/analysis_core/beat_ensemble.py": {
+   "sha256": "fdb687dce49a4c6ee93fef9f2e141021ee28324fa3e7d7572f1a453dfa4a799e",
+   "size": 38212
+  },
+  "suite/worker/analysis_core/feature_batch.py": {
+   "sha256": "ba4323fe86a36fa38b7381c2c84fb85d0359ac0e788f07f830c088ed5fdbc986",
+   "size": 11720
+  },
+  "suite/worker/analysis_core/features.py": {
+   "sha256": "bd53d87a2bc1004f52b436bad4580b2cd9c011357854ec60c316c8189ea331fb",
+   "size": 23691
+  },
+  "suite/worker/analysis_core/gpu_dsp.py": {
+   "sha256": "430af531b8938b2734c41cb0098c5e3b99559638da41ba6f146cbb0a017a2bcb",
+   "size": 24510
+  },
+  "suite/worker/analysis_core/gpu_env_smoke.py": {
+   "sha256": "fff8e8ece7a32ec05ae9484ff0d04a57bacb9fd95ca8b0b0ae34546f5311335e",
+   "size": 2359
+  },
+  "suite/worker/analysis_core/grid_bar_times.py": {
+   "sha256": "32e65638b163487424a6f5c485beed9baf94de17007693fd8f429fc208230961",
+   "size": 3914
+  },
+  "suite/worker/analysis_core/locate_dynamic_zoom.py": {
+   "sha256": "904f5376ba9839ef86ab57e5531e8df69206c5d2d8aa9a4c552a5aad59354823",
+   "size": 27096
+  },
+  "suite/worker/analysis_core/phase_calibration.py": {
+   "sha256": "3aa4791e83f74e0a284fa4e34fcc6446a7c950beb84795b833ff473c072bacb9",
+   "size": 4915
+  },
+  "suite/worker/analysis_core/reviewed_context.py": {
+   "sha256": "62ba7f70d581b15c7b592bb86846c21df82b3fd88a4e66e7c147aa13047af0b0",
+   "size": 2872
+  },
+  "suite/worker/analyze.py": {
+   "sha256": "881947e1580b8efcc78421b0898d06e67443977d995818afe0e11e013de93b63",
+   "size": 746
+  },
+  "suite/worker/analyze_full.py": {
+   "sha256": "98010f3ea02d8ca4ad3c269a4bd82e915d5fa7e5214ce11196e436f4cfcdf1c8",
+   "size": 766
+  },
+  "suite/worker/auto_cue_report.py": {
+   "sha256": "06c58b868c1581dacc9b10ebf34102de4ddbdec5faf7ae5426ac49adb4d2edcd",
+   "size": 201
+  },
+  "suite/worker/beat_ensemble.py": {
+   "sha256": "7aa8d6f2cf85b7820865927e646fa788d37a800d43c692b1679a8a00fe5d3b63",
+   "size": 199
+  },
+  "suite/worker/cache_resolve.py": {
+   "sha256": "26bad32f5b7e0ecdc6c3765543b93cdde3d0cdb8c13747231ed4352d3f6eaec6",
+   "size": 17277
+  },
+  "suite/worker/cue_bundle_batch.py": {
+   "sha256": "ea26caabe5202a27b29aa67447ea8fb3b105c749adc5bd4891f31f150c0ff1ec",
+   "size": 202
+  },
+  "suite/worker/cue_detection/__init__.py": {
+   "sha256": "4181f8dd66cffe05f74814dcc66726d4147a21003fd883d26ab69468076e4a4e",
+   "size": 6909
+  },
+  "suite/worker/cue_detection/auto_cue_report.py": {
+   "sha256": "d3369eabd59d5615b48577dd587c19b08847f08e7441925546c9dce1bd7ac5a7",
+   "size": 9409
+  },
+  "suite/worker/cue_detection/cue_bundle_batch.py": {
+   "sha256": "74366fbd19c54a09c9c937137410f8568e4e3ea237bb9e18853ade836f32d21b",
+   "size": 3399
+  },
+  "suite/worker/cue_detection/cue_phrase_energy.py": {
+   "sha256": "f57be40d0b954b7159b8f099fecc97bb16d148059b9fbb11751038e61e05f0e4",
+   "size": 78802
+  },
+  "suite/worker/cue_detection/cue_phrase_energy_gpu.py": {
+   "sha256": "cba83b988ba0331b01fbd53c1fb813495fd26e3ca8f36f3959ffd9a1c7ba8c4b",
+   "size": 9385
+  },
+  "suite/worker/cue_detection/cue_recipe.py": {
+   "sha256": "97794792e894e5f8679ed160e738642cfc73036ef41ffe85728b8f408a6b06f3",
+   "size": 3883
+  },
+  "suite/worker/cue_detection/cut_vqa_assist.py": {
+   "sha256": "a3535bed85ef906b21b25a820cc742f82659ead8d154daa572411a121342308d",
+   "size": 3064
+  },
+  "suite/worker/cue_detection/drop_boundary_ranker.py": {
+   "sha256": "a257f97d5e1bed41f02ff54b3b00312741021227c3edc5fdb7889f3678a2ac56",
+   "size": 4953
+  },
+  "suite/worker/cue_detection/drop_detector_features.py": {
+   "sha256": "5bc9d72d351ac1cd2dbbfd58bcb0bbb4af6a773fbeccd4750f38be2df6bdf9d5",
+   "size": 7716
+  },
+  "suite/worker/cue_detection/edm_cue_length_priors.py": {
+   "sha256": "89086d40e34c3ca252fa6cefc0b7657ff71c98e51b4938c1c57e902083985496",
+   "size": 4632
+  },
+  "suite/worker/cue_detection/edmformer_prefill.py": {
+   "sha256": "c86aa2e45771dc7b95045f4550310a89d01fb8a7ca0afbb09f5fcce01e03b273",
+   "size": 6978
+  },
+  "suite/worker/cue_detection/phrase_grid.py": {
+   "sha256": "5aa83ae88ebe9c20309c589f99fae8b1567fb88f8c409d3653d7839b657c20c4",
+   "size": 1977
+  },
+  "suite/worker/cue_detection/song_boundary_preview.py": {
+   "sha256": "16d8625000eba6de79f6fd3f5211ec13ad7afe0834ec3b7d5b710d5b7e47b3f3",
+   "size": 13113
+  },
+  "suite/worker/cue_detection/song_segment.py": {
+   "sha256": "bc60252fcdee8a259d7dca3987f20e1eed5caf3e8d89d8b4d506ff3defcb1bc4",
+   "size": 10070
+  },
+  "suite/worker/cue_detection/song_span_from_fullset.py": {
+   "sha256": "68f3a97ddb51df6cd05f28e3c2d7907a34e0ac3ccb26cb9a8af45d54446d1c52",
+   "size": 17414
+  },
+  "suite/worker/cue_detection/songformer_boundaries.py": {
+   "sha256": "66c89b05aed0bf13e77b57f5e5378a35e60def9208c6ea6479e835d9f945549f",
+   "size": 4071
+  },
+  "suite/worker/cue_detection/video_cues.py": {
+   "sha256": "5817fc712122c2fabff0860c5198943b050c639632e8b77ccfc79b280931a9ff",
+   "size": 13096
+  },
+  "suite/worker/cue_phrase_energy.py": {
+   "sha256": "af92245ea328636a80fe087fbb9538c1086247713a9c76ab47765d24b78a4c76",
+   "size": 203
+  },
+  "suite/worker/cue_phrase_energy_gpu.py": {
+   "sha256": "7bf28c94c084af86ad5b9a38e3176fe1c81ee74d80e7500bd233dfbdc8e4710d",
+   "size": 207
+  },
+  "suite/worker/cue_recipe.py": {
+   "sha256": "019ba7e8d129a393678b3bbdf35864c3a1fa65992154bda91b6dfa96823778a1",
+   "size": 196
+  },
+  "suite/worker/drop_boundary_ranker.py": {
+   "sha256": "3a0fc887e7fcb2fb745a26a2d3cbcfd26d8ec45b2df34c7a228de2b841717573",
+   "size": 206
+  },
+  "suite/worker/drop_detector_features.py": {
+   "sha256": "8f9dccaac947ad5f68add8670756de7f77bb0c495b914649225d7a08ecf43ecb",
+   "size": 208
+  },
+  "suite/worker/edm_cue_length_priors.py": {
+   "sha256": "1a615a1d81f667a0507ad0b78ab6b6af5dcf1f78fbdc962d837971cee1eeaa80",
+   "size": 207
+  },
+  "suite/worker/edmformer_prefill.py": {
+   "sha256": "7a88d8e9e708b13b6e65ed3166d03d7b0ac0f5c1de1335f50688450cbcdcbe14",
+   "size": 203
+  },
+  "suite/worker/feature_batch.py": {
+   "sha256": "dec83aa191f102e5fa5ae6f7dfb6208695bf7c0e8a446df9200ed0650bcb127f",
+   "size": 199
+  },
+  "suite/worker/features.py": {
+   "sha256": "14217e4f20efbdce86d4a320c5e3414221877ff7e3657d47f3eb73dff791ed79",
+   "size": 194
+  },
+  "suite/worker/gpu_dsp.py": {
+   "sha256": "f47a507dcb1b62be824130cbd5779a72d3d160873ec51ae5fe843cb79de9d817",
+   "size": 193
+  },
+  "suite/worker/gpu_env_smoke.py": {
+   "sha256": "1a057550ef9f92e598648e6316e56630e61d6adf92eccbe0446db2cd80e4f36d",
+   "size": 199
+  },
+  "suite/worker/grid_bar_times.py": {
+   "sha256": "06e31fa8ee0e2eafcc93cef0b1c29ed986a5a5c7b73f32e6a6eb6a86f2814cfd",
+   "size": 200
+  },
+  "suite/worker/json_io.py": {
+   "sha256": "79b6da286f2221d6ed48053e9afd16dd359af199961c16881f9aeca014b22a5b",
+   "size": 839
+  },
+  "suite/worker/locate_dynamic_zoom.py": {
+   "sha256": "9d826253a071ae2ac723065cb861f1afb2965ccb4dad9c22e18238ab4c02d976",
+   "size": 766
+  },
+  "suite/worker/phase_calibration.py": {
+   "sha256": "3f00f362e151b4c22afd045616e25ad28fc3397a0d918e2426566fed6cf7ebae",
+   "size": 203
+  },
+  "suite/worker/reframe_track.py": {
+   "sha256": "a4e21bd4380b32e44246ba9adcb0bc914968a13076d7d8b0949d4724fb4e2b6f",
+   "size": 26943
+  },
+  "suite/worker/requirements.txt": {
+   "sha256": "2098f88b2f5541e339759856792e8c4bcac2c12af1bae4accb86a73f4ae399f0",
+   "size": 407
+  },
+  "suite/worker/reviewed_context.py": {
+   "sha256": "b9a69d319932df5c80d4e2f8aaa21f0101691066d6793450bdd686dfaf64164e",
+   "size": 202
+  },
+  "suite/worker/song_segment.py": {
+   "sha256": "58e5a4cc57610673a0c6b1b0ff29a207381367194056b3c1778c3026a3050b92",
+   "size": 198
+  },
+  "suite/worker/structure/__init__.py": {
+   "sha256": "561c139f187dd0c9a2c7812dae9ceec2d725cd2b41c976db6e25d6a2103d2c7c",
+   "size": 2645
+  },
+  "suite/worker/structure/analyzer.py": {
+   "sha256": "17eba04860f3ef6be95ae6166021539215c5cb2e47cfbecb4d0b751dc944fc79",
+   "size": 106523
+  },
+  "suite/worker/structure/calibration.py": {
+   "sha256": "9ced5e124c90458bbdd11a1e54261322cc5bbda5f414e632fa1d36a9f36ecc4c",
+   "size": 24056
+  },
+  "suite/worker/structure/embeddings.py": {
+   "sha256": "2562449ace58e597dd612550a93545709af55ebccea14850920d1e1a4e1f4a4d",
+   "size": 29101
+  },
+  "suite/worker/structure/external_datasets.py": {
+   "sha256": "810a0c304c76945096ea8db4023af52e63d3db4dc019c69db544bbfb1119c562",
+   "size": 14905
+  },
+  "suite/worker/structure/model.py": {
+   "sha256": "bc4f5d8b472646d7da0b5dfb7e8439a6c6fbfce11c3e0c3eebc32a6f5bfe8643",
+   "size": 23033
+  },
+  "suite/worker/structure/plot.py": {
+   "sha256": "fdcaad0221280921202b22c62417fd5ee091536676a38f6d0d4fb09e02329420",
+   "size": 9755
+  },
+  "suite/worker/structure/priors.py": {
+   "sha256": "ba47bfc45960752c860e9499f64af4c685ace6d1c6114b7bdf2b16a05d447b24",
+   "size": 27614
+  },
+  "suite/worker/structure/pseudolabels.py": {
+   "sha256": "d72fcf47a5b96e7b972c22c97fa543e183978c9669cc6d6b20a90d2c2c94b966",
+   "size": 31701
+  },
+  "suite/worker/structure/taxonomy.py": {
+   "sha256": "900e95aedf64293029bff490b93591a50828c0abf5b4e65bec3775e5da95cdc8",
+   "size": 4086
+  },
+  "suite/worker/structure/training_dataset.py": {
+   "sha256": "8f8b19fcfae1d6fb047aafcf009778645369bd324ee1ad3a556416b91d2ba4d3",
+   "size": 21011
+  },
+  "suite/worker/structure/validation.py": {
+   "sha256": "ab81123e5e4983221c9b10fef5fb3870d5bea1d5ba820232a182e8246ad46fa6",
+   "size": 25227
+  },
+  "suite/worker/structure_analyzer.py": {
+   "sha256": "d0b97a36fc6f8a1ae8a0af62c3e31254cc9ef03f9294779fb6c9c1d2db28fe27",
+   "size": 598
+  },
+  "suite/worker/structure_calibration.py": {
+   "sha256": "875b5cb38eee851c7900134a8ae7f4469b5f6f7873831d1ded6e5b5052aa44fb",
+   "size": 193
+  },
+  "suite/worker/structure_embeddings.py": {
+   "sha256": "2712a54491f88faa15683fc3f63ff753a6c5590873fde1125dc3d4797f1bcf41",
+   "size": 192
+  },
+  "suite/worker/structure_external_datasets.py": {
+   "sha256": "630d63cec491ec7f26b21a93c2244da1d065c2f3fb6403585224bccda62321b2",
+   "size": 199
+  },
+  "suite/worker/structure_model.py": {
+   "sha256": "f3b902bfe4a25445f23ded15dc2be5f3ed405393e6ca07162e5e83fb36f82fa3",
+   "size": 187
+  },
+  "suite/worker/structure_plot.py": {
+   "sha256": "1c1c1127906d3342c84389a72587346bebe3c7d76874c1b8b4e4af785d0721a3",
+   "size": 186
+  },
+  "suite/worker/structure_priors.py": {
+   "sha256": "3cceaf4d98016f64041a921a4fcf48448b97abe0fe04c01d1db2121025b8039c",
+   "size": 188
+  },
+  "suite/worker/structure_pseudolabels.py": {
+   "sha256": "0a51ecd2d9a308a52855e9d0b6dee5924c6b061b1efdc960a6fefcc4a4301df6",
+   "size": 194
+  },
+  "suite/worker/structure_taxonomy.py": {
+   "sha256": "31748cbd393c85694f7902c45e8660c379f068c9dbf0b7d7b8bba6f7e33c4d47",
+   "size": 190
+  },
+  "suite/worker/structure_training_dataset.py": {
+   "sha256": "e305df01d9734bfddc99fa949e35964c791ae22b6701a88559d45cf57d4f4d65",
+   "size": 198
+  },
+  "suite/worker/structure_validation.py": {
+   "sha256": "80023cd2a34d5cb683bf0ef35972e17dacb0cc68ea1c36fa944dd33574b18941",
+   "size": 192
+  },
+  "suite/worker/templates/dynamic_zoom_label.png": {
+   "sha256": "ff9b743f6b090436dd1cb2129e08c8f4d5d6dd4290fbcd60fec9d30120fdd163",
+   "size": 1231
+  },
+  "suite/worker/templates/dynamic_zoom_swap.png": {
+   "sha256": "883a0bafe0753d7572a4a92144781200e8004e15faf24a9817069ddaeacf4aea",
+   "size": 888
+  },
+  "suite/worker/video_cues.py": {
+   "sha256": "9a817343a6850efb35ade61bdd01e0167f712bc6594bb5164af23962d75eb7ae",
+   "size": 196
+  },
+  "test/pass-evidence-selfcheck.js": {
+   "sha256": "1fa0359736e5c11345a2449724750177672a3349ad79930242c31667929a4e38",
+   "size": 1804
+  }
+ },
+ "obsolete": [],
+ "schema": "edm_lite_release.v2",
+ "version": "1.0.5"
+}

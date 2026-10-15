@@ -1,15 +1,21 @@
 {
   "schema": "edm_lite_update.v1",
   "channel": "beta",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "min_version": "1.0.0",
-  "released": "2026-10-15T04:17:30",
-  "notes": "- Daemon recycle test (python change)",
-  "patch": {
-    "url": "EDMLite-patch-1.0.4.zip",
-    "size": 548,
-    "sha256": "7ef8a934267020bd379907e0783b15e7dbd21603bc02534757531c5501780ef4"
+  "released": "2026-10-15T07:06:48",
+  "notes": "- Release manifest v2 live test (adds a comment to the update package)",
+  "title": "Release manifest v2 test",
+  "release": {
+    "url": "releases/1.0.5/manifest.json",
+    "sha256": "e6c79399d2ccf54ed96d2663041b5c28f5423b383aaae4be5c0fb29e5b49d028",
+    "files": 780,
+    "blob_base": "blobs"
   },
-  "title": "Daemon recycle test",
-  "signature": "VZ4lXCzhn6qNQoxSJkMtSmTYw9KazrMlD+5uNxEn8l2iOVp+yIJY4tqwAD5WXo4itiubJce3O99sZ7PH1+BDCg=="
+  "patch": {
+    "url": "EDMLite-patch-1.0.5.zip",
+    "size": 550,
+    "sha256": "d3ca9747deaf4f90c8d0dce6c3702f06f832081ac006a9f761bb46ebfa8c7e9c"
+  },
+  "signature": "JAiUdU5aVelr0ofeCNYVMM20E/0/pdMcXIj+tfY8MvJsgQwLEjhUr5oPXWbC3SMDeipbLplRGB+pXRnTgL62BA=="
 }
