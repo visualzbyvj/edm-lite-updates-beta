@@ -1,16 +1,16 @@
 {
   "schema": "edm_lite_update.v1",
   "channel": "beta",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "min_version": "1.0.0",
-  "released": "2026-10-15T03:53:18",
-  "notes": "- Update footer now shows this changelog on hover\n- One-click updates work for standard (non-admin) users\n- Clear message when a release needs the full installer\n- Smaller footer text and faster, safer rebuilds",
+  "released": "2026-10-15T04:01:21",
+  "notes": "- End-to-end update test release (adds a marker file, tweaks the verify script)\n- No functional changes",
   "patch": {
-    "url": "EDMLite-patch-1.0.2.zip",
-    "size": 164,
-    "sha256": "f2f42f3a56f1e0fc1f07dff39d4439931c5c51dd6c9f4d0d0bd6816917371d29"
+    "url": "EDMLite-patch-1.0.3.zip",
+    "size": 2720,
+    "sha256": "ed35a60e499ba035b71d20e651fa31266d71c682feab382f26550cdb5c7b626b"
   },
-  "title": "Update tooltip and hardening",
+  "title": "E2E update test",
   "installer_url": "https://github.com/visualzbyvj/edm-lite-updates/releases",
-  "signature": "dr+E1JtFnSS9Wzv1tUqBGT8aciT3VQfwNZCFeWo8ZxGi65EYcsqaWPhBYxRYC75OIUoxwNmey9mE2R7EtZxLCQ=="
+  "signature": "bSJHq0V9+y00vLfwewR7fmXRwq9+1Cd1cdhkfJoVAa+xdadjVbq4r2mI0jDjGr+QNeA9ufbLUaaL2sXa5D1DAA=="
 }
