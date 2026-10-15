@@ -1,21 +1,21 @@
 {
   "schema": "edm_lite_update.v1",
   "channel": "beta",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "min_version": "1.0.0",
-  "released": "2026-10-15T07:06:48",
-  "notes": "- Release manifest v2 live test (adds a comment to the update package)",
-  "title": "Release manifest v2 test",
+  "released": "2026-10-15T07:08:03",
+  "notes": "- Release manifest v2 live test with pinned side-by-side files",
+  "title": "v2 live test",
   "release": {
-    "url": "releases/1.0.5/manifest.json",
-    "sha256": "e6c79399d2ccf54ed96d2663041b5c28f5423b383aaae4be5c0fb29e5b49d028",
+    "url": "releases/1.0.6/manifest.json",
+    "sha256": "b14f763da7b1a0a914338cd4ba48a5b04d941a14f8c389f5a8da5bf961191ab9",
     "files": 780,
     "blob_base": "blobs"
   },
   "patch": {
-    "url": "EDMLite-patch-1.0.5.zip",
-    "size": 550,
-    "sha256": "d3ca9747deaf4f90c8d0dce6c3702f06f832081ac006a9f761bb46ebfa8c7e9c"
+    "url": "EDMLite-patch-1.0.6.zip",
+    "size": 549,
+    "sha256": "70d514b0653d99bdf1d20dc3f5a8df12f127b91cb882d67a6459c55accac1963"
   },
-  "signature": "JAiUdU5aVelr0ofeCNYVMM20E/0/pdMcXIj+tfY8MvJsgQwLEjhUr5oPXWbC3SMDeipbLplRGB+pXRnTgL62BA=="
+  "signature": "A67hTDOcBSQpY9Mt/is4XO+2fclo8c35qj4Iq1gKBlCNek8dilezuXKuSAB7kAAaj+/MHe+a2E6KeIuj8B+dAA=="
 }
